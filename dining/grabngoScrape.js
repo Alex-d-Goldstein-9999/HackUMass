@@ -54,7 +54,7 @@ const fs = require('fs');
         // //     allData.breakfast = breakfastData;
         // // }
         // // /*
-        
+
         // // Extract data for lunch if the lunch div is present
         // const lunchDiv = document.querySelector('.lunch_fp');
         // if (lunchDiv) {
@@ -104,8 +104,8 @@ const fs = require('fs');
 
         //     allData.dinner = dinnerData;
         // }
-        
-       */
+
+        //
         // Extract data for grabngo if the grabngo div is present
         const grabngoDiv = document.querySelector('.grabngo');
         if (grabngoDiv) {
