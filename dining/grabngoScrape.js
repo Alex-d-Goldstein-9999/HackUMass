@@ -105,7 +105,7 @@ const fs = require('fs');
         //     allData.dinner = dinnerData;
         // }
         
-       */
+    
         // Extract data for grabngo if the grabngo div is present
         const grabngoDiv = document.querySelector('.grabngo');
         if (grabngoDiv) {
