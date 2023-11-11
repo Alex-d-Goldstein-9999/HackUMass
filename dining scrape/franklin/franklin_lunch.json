@@ -1,7 +1,7 @@
 {
   "lunch": [
     {
-      "name": "Chicken Congee$",
+      "name": "Chicken Congee",
       "serving_size": "3 oz",
       "calories": "51",
       "total_fat": "0.2g",
@@ -16,7 +16,7 @@
       "diet": "Antibiotic Free, , CR1"
     },
     {
-      "name": "Chinese Twist Cruller$",
+      "name": "Chinese Twist Cruller",
       "serving_size": "2 piece",
       "calories": "15",
       "total_fat": "0.7g",
@@ -31,7 +31,7 @@
       "diet": "Halal, Vegetarian, , CR1"
     },
     {
-      "name": "French Toast Sticks$",
+      "name": "French Toast Sticks",
       "serving_size": "3 each",
       "calories": "260",
       "total_fat": "8g",
@@ -46,7 +46,7 @@
       "diet": "Halal, Vegetarian, Whole Grain, , CR2"
     },
     {
-      "name": "Hard Boiled Eggs$",
+      "name": "Hard Boiled Eggs",
       "serving_size": "2 EACH",
       "calories": "111",
       "total_fat": "7.7g",
@@ -61,7 +61,7 @@
       "diet": "Halal, Local, Sustainable, Vegetarian, , CR2"
     },
     {
-      "name": "Hot Oatmeal$",
+      "name": "Hot Oatmeal",
       "serving_size": "4 OZL",
       "calories": "91",
       "total_fat": "1.6g",
@@ -76,7 +76,7 @@
       "diet": "Halal, Plant Based, Whole Grain, , CR1"
     },
     {
-      "name": "O'Brien Potatoes$",
+      "name": "O'Brien Potatoes",
       "serving_size": "3 OZ",
       "calories": "72",
       "total_fat": "2.2g",
@@ -91,7 +91,7 @@
       "diet": "Halal, Local, Plant Based, , CR1"
     },
     {
-      "name": "Omelet Bar$",
+      "name": "Omelet Bar",
       "serving_size": "5 oz",
       "calories": "304",
       "total_fat": "22.7g",
@@ -106,7 +106,7 @@
       "diet": "Local, Sustainable, , CR3"
     },
     {
-      "name": "Pork Sausage Links$",
+      "name": "Pork Sausage Links",
       "serving_size": "2 each",
       "calories": "172",
       "total_fat": "16.2g",
@@ -121,7 +121,7 @@
       "diet": "CR3"
     },
     {
-      "name": "Pulmuone Tofu Scramble$",
+      "name": "Pulmuone Tofu Scramble",
       "serving_size": "4 OZ",
       "calories": "131",
       "total_fat": "7.9g",
@@ -136,7 +136,7 @@
       "diet": "Halal, Local, Sustainable, Plant Based, , CR1"
     },
     {
-      "name": "Rstd Tomato, Bean & Mushroom Breakfast$",
+      "name": "Rstd Tomato, Bean & Mushroom Breakfast",
       "serving_size": "8 OZ",
       "calories": "218",
       "total_fat": "12.9g",
@@ -151,7 +151,7 @@
       "diet": "Halal, Local, Sustainable, Plant Based, Whole Grain, , CR1"
     },
     {
-      "name": "Scrambled Eggs$",
+      "name": "Scrambled Eggs",
       "serving_size": "3 OZ",
       "calories": "110",
       "total_fat": "7.6g",
@@ -166,7 +166,7 @@
       "diet": "Halal, Local, Sustainable, Vegetarian, , CR2"
     },
     {
-      "name": "Apple Cider Donut Bundt$",
+      "name": "Apple Cider Donut Bundt",
       "serving_size": "1 slice",
       "calories": "203",
       "total_fat": "7.7g",
@@ -181,7 +181,7 @@
       "diet": "Local, Sustainable, Vegetarian, Whole Grain, , CR2"
     },
     {
-      "name": "Mini Raspberry Danish$",
+      "name": "Mini Raspberry Danish",
       "serving_size": "1 EACH",
       "calories": "121",
       "total_fat": "6g",
@@ -196,7 +196,7 @@
       "diet": "Halal, Vegetarian, , CR1"
     },
     {
-      "name": "Pumpkin Maple Latte Muffin Top$",
+      "name": "Pumpkin Maple Latte Muffin Top",
       "serving_size": "1 EACH",
       "calories": "229",
       "total_fat": "11.7g",
@@ -211,7 +211,7 @@
       "diet": "Local, Sustainable, Vegetarian"
     },
     {
-      "name": "Gluten Free Waffles$",
+      "name": "Gluten Free Waffles",
       "serving_size": "1 EACH",
       "calories": "224",
       "total_fat": "0.8g",
@@ -226,7 +226,7 @@
       "diet": "Sustainable, Plant Based, , CR1"
     },
     {
-      "name": "Hard Boiled Eggs$",
+      "name": "Hard Boiled Eggs",
       "serving_size": "2 EACH",
       "calories": "111",
       "total_fat": "7.7g",
@@ -241,7 +241,7 @@
       "diet": "Halal, Local, Sustainable, Vegetarian, , CR2"
     },
     {
-      "name": "O'Brien Potatoes$",
+      "name": "O'Brien Potatoes",
       "serving_size": "3 OZ",
       "calories": "72",
       "total_fat": "2.2g",
@@ -256,7 +256,7 @@
       "diet": "Halal, Local, Plant Based, , CR1"
     },
     {
-      "name": "Rstd Tomato, Bean & Mushroom Breakfast$",
+      "name": "Rstd Tomato, Bean & Mushroom Breakfast",
       "serving_size": "8 OZ",
       "calories": "218",
       "total_fat": "12.9g",
@@ -271,7 +271,7 @@
       "diet": "Halal, Local, Sustainable, Plant Based, Whole Grain, , CR1"
     },
     {
-      "name": "Scrambled Eggs$",
+      "name": "Scrambled Eggs",
       "serving_size": "3 OZ",
       "calories": "110",
       "total_fat": "7.6g",
@@ -286,7 +286,7 @@
       "diet": "Halal, Local, Sustainable, Vegetarian, , CR2"
     },
     {
-      "name": "Chicken Noodle Soup$",
+      "name": "Chicken Noodle Soup",
       "serving_size": "5 oz",
       "calories": "63",
       "total_fat": "1.6g",
@@ -301,7 +301,7 @@
       "diet": "CR1"
     },
     {
-      "name": "Black Bean Burger$",
+      "name": "Black Bean Burger",
       "serving_size": "1 each",
       "calories": "160",
       "total_fat": "7g",
@@ -316,7 +316,7 @@
       "diet": "Halal, Plant Based, Whole Grain, , CR1"
     },
     {
-      "name": "French Fries$",
+      "name": "French Fries",
       "serving_size": "3 OZ",
       "calories": "193",
       "total_fat": "13.2g",
@@ -331,7 +331,7 @@
       "diet": "Vegetarian, , CR1"
     },
     {
-      "name": "Grilled Chicken Thighs$",
+      "name": "Grilled Chicken Thighs",
       "serving_size": "1 each",
       "calories": "94",
       "total_fat": "3.8g",
@@ -346,7 +346,7 @@
       "diet": "Antibiotic Free, Halal, , CR4"
     },
     {
-      "name": "Halal Burger Patty$",
+      "name": "Halal Burger Patty",
       "serving_size": "1 each",
       "calories": "192",
       "total_fat": "13.6g",
@@ -361,7 +361,7 @@
       "diet": "Halal, , CR5"
     },
     {
-      "name": "Sweet Potato Fries$",
+      "name": "Sweet Potato Fries",
       "serving_size": "3 OZ",
       "calories": "204",
       "total_fat": "14.7g",
@@ -376,7 +376,7 @@
       "diet": "Vegetarian, , CR1"
     },
     {
-      "name": "Bombay Lentils & Spinach$",
+      "name": "Bombay Lentils & Spinach",
       "serving_size": "4 oz",
       "calories": "68",
       "total_fat": "1.1g",
@@ -391,7 +391,7 @@
       "diet": "Halal, Plant Based, Whole Grain, , CR1"
     },
     {
-      "name": "Cauliflower & Potato Curry$",
+      "name": "Cauliflower & Potato Curry",
       "serving_size": "3 OZ",
       "calories": "43",
       "total_fat": "1.7g",
@@ -406,7 +406,7 @@
       "diet": "Halal, Plant Based, , CR1"
     },
     {
-      "name": "Channa Masala$",
+      "name": "Channa Masala",
       "serving_size": "3 OZ",
       "calories": "119",
       "total_fat": "2.1g",
@@ -421,7 +421,7 @@
       "diet": "Halal, Plant Based, , CR1"
     },
     {
-      "name": "Corn, Tomato & Scallion Salad$",
+      "name": "Corn, Tomato & Scallion Salad",
       "serving_size": "2 oz",
       "calories": "26",
       "total_fat": "1g",
@@ -436,7 +436,7 @@
       "diet": "Halal, Local, Plant Based, Whole Grain, , CR1"
     },
     {
-      "name": "Ginger & Tomato Salad$",
+      "name": "Ginger & Tomato Salad",
       "serving_size": "2 oz",
       "calories": "11",
       "total_fat": "0g",
@@ -451,7 +451,7 @@
       "diet": "Halal, Local, Sustainable, Plant Based, , CR1"
     },
     {
-      "name": "Turmeric Basmati Rice$",
+      "name": "Turmeric Basmati Rice",
       "serving_size": "3 OZ",
       "calories": "141",
       "total_fat": "2.7g",
@@ -466,7 +466,7 @@
       "diet": "Halal, Local, Sustainable, Plant Based, , CR2"
     },
     {
-      "name": "Baked Ziti$",
+      "name": "Baked Ziti",
       "serving_size": "4 OZ",
       "calories": "168",
       "total_fat": "5.2g",
@@ -481,7 +481,7 @@
       "diet": "Halal, Vegetarian, , CR1"
     },
     {
-      "name": "Garlic Parmesan Cream Sauce$",
+      "name": "Garlic Parmesan Cream Sauce",
       "serving_size": "2 OZ",
       "calories": "117",
       "total_fat": "10.2g",
@@ -496,7 +496,7 @@
       "diet": "Halal, Vegetarian, , CR3"
     },
     {
-      "name": "Marinara Sauce$",
+      "name": "Marinara Sauce",
       "serving_size": "2 OZL",
       "calories": "31",
       "total_fat": "1.8g",
@@ -511,7 +511,7 @@
       "diet": "Halal, Plant Based, , CR1"
     },
     {
-      "name": "Spaghetti$",
+      "name": "Spaghetti",
       "serving_size": "4 OZ",
       "calories": "148",
       "total_fat": "0.8g",
@@ -526,7 +526,7 @@
       "diet": "Halal, Plant Based, , CR1"
     },
     {
-      "name": "Whole Grain Penne$",
+      "name": "Whole Grain Penne",
       "serving_size": "4 OZ",
       "calories": "212",
       "total_fat": "1.1g",
@@ -541,7 +541,7 @@
       "diet": "Halal, Vegetarian, Whole Grain, , CR1"
     },
     {
-      "name": "American Cheese$",
+      "name": "American Cheese",
       "serving_size": "1/2 OZ",
       "calories": "60",
       "total_fat": "4.5g",
@@ -556,7 +556,7 @@
       "diet": "Halal, Vegetarian, , CR5"
     },
     {
-      "name": "Chicken Salad$",
+      "name": "Chicken Salad",
       "serving_size": "2 OZ",
       "calories": "117",
       "total_fat": "8.4g",
@@ -571,7 +571,7 @@
       "diet": "Antibiotic Free, Halal, , CR3"
     },
     {
-      "name": "Deli Beef$",
+      "name": "Deli Beef",
       "serving_size": "2 OZ",
       "calories": "61",
       "total_fat": "2g",
@@ -586,7 +586,7 @@
       "diet": "CR5"
     },
     {
-      "name": "Deli Salami$",
+      "name": "Deli Salami",
       "serving_size": "2 OZ",
       "calories": "139",
       "total_fat": "10.9g",
@@ -601,7 +601,7 @@
       "diet": ", CR5"
     },
     {
-      "name": "Homemade Spicy Hummus$",
+      "name": "Homemade Spicy Hummus",
       "serving_size": "2 OZ",
       "calories": "110",
       "total_fat": "5.3g",
@@ -616,7 +616,7 @@
       "diet": "Halal, Plant Based, Halal\n6, CR1"
     },
     {
-      "name": "Provolone Cheese$",
+      "name": "Provolone Cheese",
       "serving_size": "1/2 OZ",
       "calories": "51",
       "total_fat": "3.5g",
@@ -631,7 +631,7 @@
       "diet": "Halal, Vegetarian, , CR5"
     },
     {
-      "name": "Tuna Salad$",
+      "name": "Tuna Salad",
       "serving_size": "2 OZ",
       "calories": "139",
       "total_fat": "11.2g",
@@ -646,7 +646,7 @@
       "diet": "Halal, , CR3"
     },
     {
-      "name": "Turkey Breast$",
+      "name": "Turkey Breast",
       "serving_size": "2 OZ",
       "calories": "60",
       "total_fat": "1g",
@@ -661,7 +661,7 @@
       "diet": "CR4"
     },
     {
-      "name": "Plant-Based Condiments Bar w/Almonds$",
+      "name": "Plant-Based Condiments Bar w/Almonds",
       "serving_size": "2 OZ",
       "calories": "255",
       "total_fat": "19.2g",
@@ -676,7 +676,7 @@
       "diet": "Plant Based, , CR2"
     },
     {
-      "name": "Cheese Pizza$",
+      "name": "Cheese Pizza",
       "serving_size": "1 SLICE",
       "calories": "204",
       "total_fat": "5.4g",
@@ -691,7 +691,7 @@
       "diet": "Halal, Vegetarian, Whole Grain, , CR2"
     },
     {
-      "name": "Pepperoni Pizza$",
+      "name": "Pepperoni Pizza",
       "serving_size": "1 SLICE",
       "calories": "217",
       "total_fat": "7g",
@@ -706,7 +706,7 @@
       "diet": "Sustainable, Whole Grain, , CR2"
     },
     {
-      "name": "Mediterranean Chicken Bowl$",
+      "name": "Mediterranean Chicken Bowl",
       "serving_size": "1 each",
       "calories": "411",
       "total_fat": "17.2g",
@@ -721,7 +721,7 @@
       "diet": "Antibiotic Free, Local, Sustainable, , CR2"
     },
     {
-      "name": "Brown Rice$",
+      "name": "Brown Rice",
       "serving_size": "3 1/2 OZ",
       "calories": "123",
       "total_fat": "0.9g",
@@ -736,7 +736,7 @@
       "diet": "Halal, Plant Based, Whole Grain, , CR2"
     },
     {
-      "name": "Dim Sum$",
+      "name": "Dim Sum",
       "serving_size": "2 EACH",
       "calories": "444",
       "total_fat": "12.4g",
@@ -751,7 +751,7 @@
       "diet": "CR5"
     },
     {
-      "name": "Egg Drop Soup$",
+      "name": "Egg Drop Soup",
       "serving_size": "5 oz",
       "calories": "54",
       "total_fat": "4.4g",
@@ -766,7 +766,7 @@
       "diet": "Sustainable, , CR1"
     },
     {
-      "name": "Jasmine Rice$",
+      "name": "Jasmine Rice",
       "serving_size": "3 OZ",
       "calories": "92",
       "total_fat": "0g",
@@ -781,7 +781,7 @@
       "diet": "Halal, Plant Based, \n, CR2"
     },
     {
-      "name": "Stir Fried Vegetables$",
+      "name": "Stir Fried Vegetables",
       "serving_size": "3 OZ",
       "calories": "31",
       "total_fat": "2.3g",
@@ -796,7 +796,7 @@
       "diet": "Halal, Local, Sustainable, Plant Based, , CR1"
     },
     {
-      "name": "Vegetable Fried Rice$",
+      "name": "Vegetable Fried Rice",
       "serving_size": "4 OZ",
       "calories": "100",
       "total_fat": "3.1g",
@@ -811,7 +811,7 @@
       "diet": "Halal, Local, Sustainable, Vegetarian, \n, CR2"
     },
     {
-      "name": "Vegetable Spring Rolls$",
+      "name": "Vegetable Spring Rolls",
       "serving_size": "2 EACH",
       "calories": "158",
       "total_fat": "15.3g",

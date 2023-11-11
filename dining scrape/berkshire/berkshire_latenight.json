@@ -1,7 +1,7 @@
 {
   "latenight": [
     {
-      "name": "Chicken Taco Filling$",
+      "name": "Chicken Taco Filling",
       "serving_size": "1 oz",
       "calories": "50",
       "total_fat": "3.1g",
@@ -16,7 +16,7 @@
       "diet": "Antibiotic Free, Halal, \n, CR3"
     },
     {
-      "name": "Corn and Red Peppers$",
+      "name": "Corn and Red Peppers",
       "serving_size": "4 oz",
       "calories": "30",
       "total_fat": "1.1g",
@@ -31,7 +31,7 @@
       "diet": "Halal, Local, Sustainable, Vegetarian, , CR1"
     },
     {
-      "name": "Flour Tortilla$",
+      "name": "Flour Tortilla",
       "serving_size": "1 each",
       "calories": "90",
       "total_fat": "2g",
@@ -46,7 +46,7 @@
       "diet": "Halal, Plant Based, , CR1"
     },
     {
-      "name": "Halal Beef Taco Meat$",
+      "name": "Halal Beef Taco Meat",
       "serving_size": "2 OZ",
       "calories": "81",
       "total_fat": "4.6g",
@@ -61,7 +61,7 @@
       "diet": "Halal, Local, Sustainable, , CR5"
     },
     {
-      "name": "Latin Toppings$",
+      "name": "Latin Toppings",
       "serving_size": "3 oz",
       "calories": "124",
       "total_fat": "9.7g",
@@ -76,7 +76,7 @@
       "diet": "Halal, Local, Sustainable, Vegetarian, , CR2"
     },
     {
-      "name": "Mexican Rice$",
+      "name": "Mexican Rice",
       "serving_size": "3 oz",
       "calories": "86",
       "total_fat": "0g",
@@ -91,7 +91,7 @@
       "diet": "Halal, Local, Plant Based, , CR1"
     },
     {
-      "name": "Pinto Beans$",
+      "name": "Pinto Beans",
       "serving_size": "3 OZ",
       "calories": "86",
       "total_fat": "1.6g",
@@ -106,7 +106,7 @@
       "diet": "Halal, Local, Sustainable, Plant Based, Whole Grain, , CR1"
     },
     {
-      "name": "Taco Shells$",
+      "name": "Taco Shells",
       "serving_size": "2 EACH",
       "calories": "99",
       "total_fat": "4.6g",
@@ -121,7 +121,7 @@
       "diet": "Halal, Plant Based, Whole Grain, , CR1"
     },
     {
-      "name": "Cheese Pizza$",
+      "name": "Cheese Pizza",
       "serving_size": "1 SLICE",
       "calories": "204",
       "total_fat": "5.4g",
@@ -136,7 +136,7 @@
       "diet": "Halal, Vegetarian, Whole Grain, , CR2"
     },
     {
-      "name": "Pepperoni Pizza$",
+      "name": "Pepperoni Pizza",
       "serving_size": "1 SLICE",
       "calories": "217",
       "total_fat": "7g",
@@ -151,7 +151,7 @@
       "diet": "Sustainable, Whole Grain, , CR2"
     },
     {
-      "name": "Vegetable Pizza$",
+      "name": "Vegetable Pizza",
       "serving_size": "1 SLICE",
       "calories": "203",
       "total_fat": "5.5g",
@@ -166,7 +166,7 @@
       "diet": "Halal, Local, Sustainable, Vegetarian, Whole Grain, , CR2"
     },
     {
-      "name": "Mozzarella Sticks$",
+      "name": "Mozzarella Sticks",
       "serving_size": "2 EACH",
       "calories": "530",
       "total_fat": "28.7g",
@@ -181,7 +181,7 @@
       "diet": "Vegetarian, , CR4"
     },
     {
-      "name": "Plant Based Meatball Grinder$",
+      "name": "Plant Based Meatball Grinder",
       "serving_size": "1 EACH",
       "calories": "454",
       "total_fat": "17.8g",
