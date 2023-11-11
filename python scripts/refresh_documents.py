@@ -1,10 +1,8 @@
 import pymongo
 from pymongo.server_api import ServerApi
-from bson import BSON
 import json
-import datetime
 import certifi
-import sys 
+import sys
 import subprocess
 
 
