@@ -88,7 +88,7 @@ const fs = require('fs');
                 const diet = element ? element.getAttribute('data-clean-diet-str') : '';
 
                 return {
-                    name: foodElement.textContent.trim().replace(/0\.00$/, ''),
+                    name: foodElement.textContent.trim().replace(/(\$|)0\.00$/, ''),
                     serving_size: servingSize.trim(),
                     calories: calories.trim(),
                     total_fat: total_fat.trim(),
