@@ -1,11 +1,8 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-
-
 (async () => {
-
-    const hall = process.argv[2]
+    const hall = process.argv[2];
     // Launch the browser
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
@@ -155,7 +152,7 @@ const fs = require('fs');
 
     // Store data in a JSON file
     const jsonContent = JSON.stringify(data, null, 2);
-    fs.writeFileSync(`dining scrape/${hall}/${hall}_grabngo.json`, jsonContent);
+    fs.writeFileSync(`${hall}/${hall}_grabngo.json`, jsonContent);
 
     console.log('Data extracted and stored in output.json');
 })();
