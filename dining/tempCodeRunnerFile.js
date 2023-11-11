@@ -1,1 +1,0 @@
-                    allergens: allergens.trim(),
