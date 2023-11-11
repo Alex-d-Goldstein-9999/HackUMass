@@ -1,348 +1,563 @@
 {
   "lunch": [
     {
-      "name": "Baked Eggs w/Black Beans & Cheddar Cheese0.00",
+      "name": "Baked Eggs w/Black Beans & Cheddar Cheese",
       "serving_size": "1 each",
       "calories": "143",
       "total_fat": "9.2g",
       "total_carbohydrates": "5.5g",
-      "protein": "9.5g"
+      "cholesterol": "160.1mg",
+      "sugar": "0.7g",
+      "fiber": "1.4g",
+      "protein": "9.5g",
+      "ingredients": "Cage Free Eggs, Low Sodium Black Turtle Beans (BUSHS: Prepared Black Beans, Water, Salt, Calcium Chloride. SUB (CONTIGO): Black Beans, Water, Salt, Calcium Chloride, Ferrous Gluconate), ANGELA MIA Diced Tomatoes   (Vine-Ripened Tomatoes, Tomato Juice, Less than 2% of: Calcium Chloride, Citric Acid. WEST CREEK: Tomatoes, Tomato Juice, Salt, Calcium Chloride, Citric Acid), Shredded Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto, Potato Starch and Powdered Cellulose), Local Yellow Onions, Canola Oil, Fresh Cilantro, Garlic Cloves, Kosher Salt, Mild Chili Powder (MAGELLAN: Chili Pepper, Spices, Salt, Silicon Dioxide & Garlic), Ground Coriander, Ground Cumin Seed, Ground Black Pepper",
+      "allergens": "Milk, Eggs"
     },
     {
-      "name": "French Toast Sticks0.00",
+      "name": "French Toast Sticks",
       "serving_size": "3 each",
       "calories": "260",
       "total_fat": "8g",
       "total_carbohydrates": "42g",
-      "protein": "6g"
+      "cholesterol": "10mg",
+      "sugar": "14g",
+      "fiber": "2g",
+      "protein": "6g",
+      "ingredients": "French Toast Sticks (Whole Wheat Bread (Whole Wheat Flour, Water, Enriched Wheat Flour [Flour, Malted Barley Flour, Reduced Iron, Niacin, Thiamine Mononitrate(Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Sugar, Wheat Gluten, Yeast. Contains 2% or less of each of the Following: Soybean Oil, Salt,Calcium Propionate [Preservative], Datem, Grain Vinegar, Citric Acid, Soy Lecithin), Water, Whole Wheat Batter (Whole Wheat Flour, Sugar,Enriched Wheat Flour [Wheat Flour, Niacin, Iron, Thiamine, Riboflavin, Folic Acid], Modified Cornstarch. Contains 2% Or Less Of Each Of The Following: Cinnamon, Nutmeg, Egg, Skim Milk, Salt, Soybean Oil, Natural and Artificial Flavor, Leavening [Sodium Bicarbonate], Corn Syrup Solids,Modified Cellulose, Soy Lecithin), Coating (Unbleached Enriched Wheat Flour [Unbleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Sugar, Leavening [Monocalcium Phosphate, Sodium Bicarbonate], Salt, Yeast), Soybean Oil, Cinnamon Sugar (Sugar, Cinnamon)",
+      "allergens": "Milk, Eggs, Gluten, Soy, Corn  , Wheat"
     },
     {
-      "name": "Hard Boiled Eggs0.00",
+      "name": "Hard Boiled Eggs",
       "serving_size": "2 EACH",
       "calories": "111",
       "total_fat": "7.7g",
       "total_carbohydrates": "0g",
-      "protein": "10.7g"
+      "cholesterol": "297.7mg",
+      "sugar": "0g",
+      "fiber": "0g",
+      "protein": "10.7g",
+      "ingredients": "Cage Free Eggs",
+      "allergens": "Eggs"
     },
     {
-      "name": "Hot Oatmeal0.00",
+      "name": "Hot Oatmeal",
       "serving_size": "4 OZL",
       "calories": "91",
       "total_fat": "1.6g",
       "total_carbohydrates": "16.2g",
-      "protein": "3.2g"
+      "cholesterol": "0mg",
+      "sugar": "0.2g",
+      "fiber": "2.4g",
+      "protein": "3.2g",
+      "ingredients": "Quick Oats Cereal (100% Whole Grain Rolled Oats)",
+      "allergens": "Gluten"
     },
     {
-      "name": "O'Brien Potatoes0.00",
+      "name": "O'Brien Potatoes",
       "serving_size": "3 OZ",
       "calories": "72",
       "total_fat": "2.2g",
       "total_carbohydrates": "12g",
-      "protein": "1.5g"
+      "cholesterol": "0mg",
+      "sugar": "1.2g",
+      "fiber": "0.2g",
+      "protein": "1.5g",
+      "ingredients": "Diced Red Potatoes, Fresh Green Peppers, Canola Oil, Local Yellow Onions, Paprika    (Paprika and Silicon Dioxide), Ground Black Pepper, Kosher Salt",
+      "allergens": ""
     },
     {
-      "name": "Omelet Bar0.00",
+      "name": "Omelet Bar",
       "serving_size": "5 oz",
       "calories": "304",
       "total_fat": "22.7g",
       "total_carbohydrates": "2.7g",
-      "protein": "21.2g"
+      "cholesterol": "294.6mg",
+      "sugar": "1.1g",
+      "fiber": "0.2g",
+      "protein": "21.2g",
+      "ingredients": "Cage Free Eggs, Shredded Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto, Potato Starch and Powdered Cellulose), American Cheese (Milk, Cream, Sodium Citrate, Salt, Cheese Culture, Sorbic Acid, Enzymes, Citric Acid, Soy Lecithin), Smoked Ham     (FARMLAND BRAND: Pork, Cured with Water, Dextrose [Corn], Salt, Potassium Lactate, Sodium Phosphates, Sodium Diacetate, Sodium Erythrobate, Sodium Nitrite, Caramel Color;  HORMEL: Cured with Water, Salt, Dextrose [Corn], Sodium Phosphates, Sodium Erythrobate, Sodium Nitrate), Local Yellow Onions, Bacon Topping (Bacon (Cured With Water, Salt, Sugar, Sodium Erythorbate, Sodium Nitrite. May also contain Smoke Flavoring, Dextrose, Sodium Phosphate, Potassium Chloride, Sodium Diacetate, Flavoring, Honey SUB A (LIUGI): Bacon Cured with Water, Salt, Sugar, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite. May contain smoke flavor), Local Fresh Mushrooms   , Fresh Green Peppers, Local Tomatoes, Pan Spray (Canola Oil, Caprylic/Capric Triglycerides, Phosphated Mono and Diglycerides [Corn], Silicon Dioxide, Calcium Stearate, Propellant. SUB A (Vegalene): Canola Oil, Canola Lecithin, Mono and Diglycerides, Natural Flavor, and Propellant)",
+      "allergens": "Milk, Eggs, Soy, Corn"
     },
     {
-      "name": "Pork Sausage Links0.00",
+      "name": "Pork Sausage Links",
       "serving_size": "2 each",
       "calories": "172",
       "total_fat": "16.2g",
       "total_carbohydrates": "0g",
-      "protein": "7.1g"
+      "cholesterol": "35.4mg",
+      "sugar": "0g",
+      "fiber": "0g",
+      "protein": "7.1g",
+      "ingredients": "Sausage Links (Pork, Water, Salt, Spices, Dextrose, Sugar, Flavoring, Lime Juice Concentrate)",
+      "allergens": "Corn"
     },
     {
-      "name": "Pulmuone Tofu Scramble0.00",
+      "name": "Pulmuone Tofu Scramble",
       "serving_size": "4 OZ",
       "calories": "131",
       "total_fat": "7.9g",
       "total_carbohydrates": "2.9g",
-      "protein": "13g"
+      "cholesterol": "0mg",
+      "sugar": "0.5g",
+      "fiber": "2.3g",
+      "protein": "13g",
+      "ingredients": "Extra Firm Tofu (Pulmuone: Water, Organic Soybeans, Less than 2% of Magnesium Chloride, Calcium Sulfate. SUB WILDWOOD: Water, Organic Soybeans, Less than 2% of Magnesium Chloride, Calcium Sulfate. SUB HOUSEFEDS: Water, Organic Soybeans, Calcium Sulfate, Calcium Chloride. SUB SOYBOY: Filtered Water, Organically-Grown (Non-GMO) Soybeans, Natural Coagulants (Calcium Chloride [Nigari], Calcium Sulphate), Water, Local Tomatoes, Jalapeno Peppers (CONTIGO: Jalapeno Peppers, Water, Vinegar, Calcium Chloride, Salt), Canola Oil, Kosher Salt, Whole Cumin Seed, Ground Turmeric",
+      "allergens": "Soy"
     },
     {
-      "name": "Rstd Tomato, Bean & Mushroom Breakfast0.00",
+      "name": "Rstd Tomato, Bean & Mushroom Breakfast",
       "serving_size": "8 OZ",
       "calories": "218",
       "total_fat": "12.9g",
       "total_carbohydrates": "23.2g",
-      "protein": "5.8g"
+      "cholesterol": "0mg",
+      "sugar": "6.5g",
+      "fiber": "5g",
+      "protein": "5.8g",
+      "ingredients": "Fresh Local Mushrooms , BUSH Vegetarian Baked Beans (BUSH: Prepared Navy Beans, Water, Brown Sugar, Salt, Mustard, (Water, Water, Mustard Seed, Salt, Paprika, Turmeric), Modified Corn Starch, Onion Powder, Caramel Color [May Contain Corn], Spices, Garlic Powder, Natural Flavor. SUB A (WEST CREEK): White Beans, Water, High Fructose Corn Syrup, Sugar, Tomato Paste, Salt, Dextrose, Onion Powder, Garlic Powder, Oleoresin Paprika, Natural Flavorings. SUB B (CONTIGO): Black Beans, Water, Salt, Calcium Chloride, Ferrous Gluconate), Plum Tomatoes, Local Yellow Onions, ANGELA MIA Diced Tomatoes   (Vine-Ripened Tomatoes, Tomato Juice, Less than 2% of: Calcium Chloride, Citric Acid. WEST CREEK: Tomatoes, Tomato Juice, Salt, Calcium Chloride, Citric Acid), Canola Oil, Lemon Juice (Lemons), Canola Oil, Canola Oil, Fresh Chives, Ground Black Pepper, Ground Black Pepper, Kosher Salt, Kosher Salt",
+      "allergens": "Corn"
     },
     {
-      "name": "Scrambled Eggs0.00",
+      "name": "Scrambled Eggs",
       "serving_size": "3 OZ",
       "calories": "110",
       "total_fat": "7.6g",
       "total_carbohydrates": "0g",
-      "protein": "10.6g"
+      "cholesterol": "293.6mg",
+      "sugar": "0g",
+      "fiber": "0g",
+      "protein": "10.6g",
+      "ingredients": "Cage Free Eggs, Canola Oil",
+      "allergens": "Eggs"
     },
     {
-      "name": "Apple Cider Donut Bundt0.00",
+      "name": "Apple Cider Donut Bundt",
       "serving_size": "1 slice",
       "calories": "203",
       "total_fat": "7.7g",
       "total_carbohydrates": "31.1g",
-      "protein": "3.2g"
+      "cholesterol": "24.5mg",
+      "sugar": "16.8g",
+      "fiber": "1.1g",
+      "protein": "3.2g",
+      "ingredients": "Apple Cider Doughnut Cake (Vegan Sugar (Cane Sugar), Unbleached Flour (Unbleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Local Apple Cider (Apples), Canned Applesauce (Apples, High Fructose Corn Syrup, Water, Ascorbic Acid), White Whole Wheat Flour, Extra Virgin Olive Oil, Fresh Cage Free Eggs, Vegan Sugar (Cane Sugar), Local Unsalted Butter (Cream (Milk), Natural Flavoring), Imitation Vanilla Flavouring (CONCORD FOODS: Water, Propylene Glycol, Caramel Color, Artificial Flavor), Baking Powder (Cornstarch, Sodium Bicarbonate, Sodium Aluminum Sufate, Monocalcium Phosphate), Baking Soda (Sodium Bicarbonate), Cinnamon, Cinnamon, Salt, Pan Spray (Canola Oil, Caprylic/Capric Triglycerides, Phosphated Mono and Diglycerides [Corn], Silicon Dioxide, Calcium Stearate, Propellant. SUB A (Vegalene): Canola Oil, Canola Lecithin, Mono and Diglycerides, Natural Flavor, and Propellant)",
+      "allergens": "Milk, Eggs, Gluten, Corn  , Wheat"
     },
     {
-      "name": "Mini Raspberry Danish0.00",
+      "name": "Mini Raspberry Danish",
       "serving_size": "1 EACH",
       "calories": "121",
       "total_fat": "6g",
       "total_carbohydrates": "15.1g",
-      "protein": "2g"
+      "cholesterol": "20.2mg",
+      "sugar": "5g",
+      "fiber": "1g",
+      "protein": "2g",
+      "ingredients": "Mini Raspberry Danish (Unbleached Enriched Flour [Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Water, Butter (Cream), Raspberries, Sugar, Egg, Applesauce [Apples, Sugar], Yeast, Modified Corn Starch, Salt, Milk, Wheat Gluten, Ascorbic Acid, Food Enzymes [Xylanase, Amylase)",
+      "allergens": "Milk, Eggs, Gluten, Corn  , Wheat"
     },
     {
-      "name": "Pumpkin Maple Latte Muffin Top0.00",
+      "name": "Pumpkin Maple Latte Muffin Top",
       "serving_size": "1 EACH",
       "calories": "229",
       "total_fat": "11.7g",
       "total_carbohydrates": "28.2g",
-      "protein": "2.9g"
+      "cholesterol": "41.9mg",
+      "sugar": "15.6g",
+      "fiber": "0.6g",
+      "protein": "2.9g",
+      "ingredients": "Pumpkin Maple Latte Muffin Top (Ultra Moist Muffin Mix (Sugar, Bleached Wheat Flour, Modified Food Starch, Soybean Oil, Leavening (Baking Soda, Sodium Aluminum Phosphate, Monocalcium Phosphate), Dairy Whey (Milk), Soy Flour, Salt, Wheat Gluten, Emulsifiers (Sodium Stearoyl Lactylate, Propylene Glycol Monoesters, Monoglycerides), Natural and Artificial Flavor), Fresh Cage Free Eggs, Canola Oil, Canned Pumpkin (Pumpkin), Water, Imitation Vanilla Flavouring (CONCORD FOODS: Water, Propylene Glycol, Caramel Color, Artificial Flavor), Espresso Powder (Coffee), Maple Flavoring (Water, Vegetable Glycerine, Grain Alcohol, Cane Sugar, Citric Acid, Natural Maple Flavor), Ground Ginger (Ginger, Sulfur Dioxide), Ground Allspice, Ground Nutmeg)",
+      "allergens": "Milk, Eggs, Gluten, Soy, Corn  , Wheat"
     },
     {
-      "name": "Chicken Noodle Soup0.00",
+      "name": "Chicken Noodle Soup",
       "serving_size": "5 oz",
       "calories": "63",
       "total_fat": "1.6g",
       "total_carbohydrates": "7.5g",
-      "protein": "4.4g"
+      "cholesterol": "15.6mg",
+      "sugar": "1.3g",
+      "fiber": "0.6g",
+      "protein": "4.4g",
+      "ingredients": "Chicken Noodle Soup  (Chicken Stock (Water, Chicken Flavor [Chicken Flavor, Sea Salt, Water, Cane Sugar, Onion Powder, Yeast Extract, Vegetable Concentrate (Carrot, Onion, Celery), Turmeric]), Water, Chicken (Chicken, Water, Rice Starch, Salt, Cane Sugar, Cultured Dextrose, Garlic Powder, Onion Powder), Carrots, Onions, Pasta (Durum Wheat, Whole Egg, Egg White), Celery, Contains 2% or less of: Canola Oil, Garlic, Basil, Parsley, Corn Starch, Spice)",
+      "allergens": "Eggs, Gluten, Corn  , Wheat"
     },
     {
-      "name": "French Fries0.00",
+      "name": "French Fries",
       "serving_size": "3 OZ",
       "calories": "193",
       "total_fat": "13.2g",
       "total_carbohydrates": "17.7g",
-      "protein": "1.8g"
+      "cholesterol": "0mg",
+      "sugar": "0g",
+      "fiber": "1.8g",
+      "protein": "1.8g",
+      "ingredients": "ROMA French Fries (Potatoes, Vegetable Oil (Contains one of more of the following: Canola Oil, Soybean Oil, Palm Oil, Hydrogenates Cottonseed Oil), Modified Potato Starch, Corn Starch, Tapioca Dextrin, Potato Dextrin, Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Monocalcium Phosphate), Dextrose, Xanthan Gum, Disodium Dihydrogen Pyrophosphate), Deep Frying Canola Oil   (Canola Oil, TBHQ and Citric Acid, Dimethylpolysiloxane.  Dairy, egg, soy, sesame, corn and/or wheat products may be fried in this oil), Kosher Salt",
+      "allergens": "Milk, Eggs, Gluten, Soy, Corn  , Sesame , Wheat"
     },
     {
-      "name": "Grilled Chicken Breast0.00",
+      "name": "Grilled Chicken Breast",
       "serving_size": "1 oz",
       "calories": "31",
       "total_fat": "0.9g",
       "total_carbohydrates": "0g",
-      "protein": "5.6g"
+      "cholesterol": "17.9mg",
+      "sugar": "0g",
+      "fiber": "0g",
+      "protein": "5.6g",
+      "ingredients": "Halal Antibiotic Free Boneless Skinless Chicken Breast   (Boneless, Skinless Chicken Breast; HARVESTLAND: Halal Boneless Skinless Chicken Breasts with Rib Meat), Canola Oil, Kosher Salt, Ground Black Pepper",
+      "allergens": ""
     },
     {
-      "name": "Halal Burger Patty0.00",
+      "name": "Halal Burger Patty",
       "serving_size": "1 each",
       "calories": "192",
       "total_fat": "13.6g",
       "total_carbohydrates": "0g",
-      "protein": "16.8g"
+      "cholesterol": "60mg",
+      "sugar": "0g",
+      "fiber": "0g",
+      "protein": "16.8g",
+      "ingredients": "Halal Grass Fed Burger Patty (Ground Beef), Kosher Salt, Ground Black Pepper",
+      "allergens": ""
     },
     {
-      "name": "Kelp Burger0.00",
+      "name": "Kelp Burger",
       "serving_size": "1 each",
       "calories": "200",
       "total_fat": "12g",
       "total_carbohydrates": "13g",
-      "protein": "11g"
+      "cholesterol": "0mg",
+      "sugar": "0g",
+      "fiber": "5g",
+      "protein": "11g",
+      "ingredients": "Kelp Burger (Maine Sugar Kelp, Green Chickpeas, Brown Rice, Pea Protein, Basil, Extra Virgin Olive Oil, Chickpea Flour, Pea Starch, Oat Fiber, Spices (Garlic, Nutritional Yeast, Kosher Salt, Methyl Cellulose [Plant Fiber], Lemon, Red Pepper Flakes)), Pan Spray (Canola Oil, Caprylic/Capric Triglycerides, Phosphated Mono and Diglycerides [Corn], Silicon Dioxide, Calcium Stearate, Propellant. SUB A (Vegalene): Canola Oil, Canola Lecithin, Mono and Diglycerides, Natural Flavor, and Propellant)",
+      "allergens": "Corn"
     },
     {
-      "name": "Sweet Potato Fries0.00",
+      "name": "Sweet Potato Fries",
       "serving_size": "3 OZ",
       "calories": "204",
       "total_fat": "14.7g",
       "total_carbohydrates": "17.1g",
-      "protein": "0.9g"
+      "cholesterol": "0mg",
+      "sugar": "5.4g",
+      "fiber": "2.7g",
+      "protein": "0.9g",
+      "ingredients": "Sweet Potato French Fries (Sweet Potatoes, Vegetable Oil (Contains One or More of the Following: Canola Oil, Soybean Oil), Modified Potato Starch, Rice Flour, Corn Dextrin, Sea Salt, Spices, Corn Starch, Onion Powder, Paprika, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Extractive Of Paprika, Garlic Powder, Xanthum Gum; Sub (ROMA): Sweet Potatoes, Vegetable Oil, Soybean Oil, Canola Oil), Modified Potato Starch, Rice Flour, Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Corn Dextrin, Salt, Sea Salt, Extractive Of Paprika (Color), Xanthan Gum, Disodium Dihydrogen Pyrophosphate), Deep Frying Canola Oil   (Canola Oil, TBHQ and Citric Acid, Dimethylpolysiloxane.  Dairy, egg, soy, sesame, corn and/or wheat products may be fried in this oil)",
+      "allergens": "Milk, Eggs, Gluten, Soy, Corn  , Sesame , Wheat"
     },
     {
-      "name": "Hunan Pork0.00",
+      "name": "Hunan Pork",
       "serving_size": "4 oz",
       "calories": "116",
       "total_fat": "4.5g",
       "total_carbohydrates": "6.3g",
-      "protein": "12.4g"
+      "cholesterol": "30.6mg",
+      "sugar": "2.7g",
+      "fiber": "1.1g",
+      "protein": "12.4g",
+      "ingredients": "Pork Loin, Fresh Broccoli Florets, Local Yellow Onions, Light Soy Sauce (LEE KUM KEE: Water, Salt, Soybeans, Sugar, Wheat Flour, Less than 2% of Caramel Color [Corn], Lactic Acid, Sodium Benzoate , Disodium 5' - Inosinate and Disodium 5' - Guanylate. SUB (KIKKOMAN): Water, Soybeans, Wheat, Salt, Lactic Acid, Sodium Benzoate), Canola Oil, SAMBAL Chili Garlic Sauce (SUPHERB: Water, Jalapenos, Crushed Red Peppers, Red Wine Vinegar, Garlic, Salt, Ascorbic Acid, Citric Acid And Xanthan Gum), Granulated Sugar, Ginger Root, Garlic Cloves, Scallions, Corn Starch, Sesame Oil",
+      "allergens": "Gluten, Soy, Corn  , Sesame , Wheat"
     },
     {
-      "name": "Jasmine Rice0.00",
+      "name": "Jasmine Rice",
       "serving_size": "3 OZ",
       "calories": "92",
       "total_fat": "0g",
       "total_carbohydrates": "20.7g",
-      "protein": "1.7g"
+      "cholesterol": "0mg",
+      "sugar": "0g",
+      "fiber": "0.6g",
+      "protein": "1.7g",
+      "ingredients": "Jasmine Rice (Jasmine Rice (JASMINE RICE: Long Grain Rice, Iron Phosphate, Niacin, Thiamine Mononitrate, and Folic Acid. GREEK BELLA RICE: 100% Greek Long Grain Parboiled Rice. ASIANPRIDE: White Jasmine Rice. CONTIGO:Thai Jasmine))",
+      "allergens": ""
     },
     {
-      "name": "Spicy Tofu & Vegetable Stir Fry0.00",
+      "name": "Spicy Tofu & Vegetable Stir Fry",
       "serving_size": "4 oz",
       "calories": "111",
       "total_fat": "5.9g",
       "total_carbohydrates": "7.1g",
-      "protein": "7.7g"
+      "cholesterol": "0mg",
+      "sugar": "2.3g",
+      "fiber": "1.8g",
+      "protein": "7.7g",
+      "ingredients": "Extra Firm Tofu (Pulmuone: Water, Organic Soybeans, Less than 2% of Magnesium Chloride, Calcium Sulfate. SUB WILDWOOD: Water, Organic Soybeans, Less than 2% of Magnesium Chloride, Calcium Sulfate. SUB HOUSEFEDS: Water, Organic Soybeans, Calcium Sulfate, Calcium Chloride. SUB SOYBOY: Filtered Water, Organically-Grown (Non-GMO) Soybeans, Natural Coagulants (Calcium Chloride [Nigari], Calcium Sulphate), Fresh Local Carrots, Light Soy Sauce (LEE KUM KEE: Water, Salt, Soybeans, Sugar, Wheat Flour, Less than 2% of Caramel Color [Corn], Lactic Acid, Sodium Benzoate , Disodium 5' - Inosinate and Disodium 5' - Guanylate. SUB (KIKKOMAN): Water, Soybeans, Wheat, Salt, Lactic Acid, Sodium Benzoate), Sherry Cooking Wine (Sherry Wine, Salt, Potassium Sorbate, Potassium Metabisulfite), Bamboo Shoots (Bamboo Shoots, Water, Citric Acid), Local Fresh Mushrooms   , Fresh Green Peppers, Local Yellow Onions, Fresh Broccoli Florets, Canola Oil, SAMBAL Chili Garlic Sauce (SUPHERB: Water, Jalapenos, Crushed Red Peppers, Red Wine Vinegar, Garlic, Salt, Ascorbic Acid, Citric Acid And Xanthan Gum), Corn Starch, Garlic Cloves, Granulated Sugar, Kosher Salt, Ground Black Pepper",
+      "allergens": "Gluten, Soy, Corn  , Wheat"
     },
     {
-      "name": "Stir Fry Green Vegetables0.00",
+      "name": "Stir Fry Green Vegetables",
       "serving_size": "3 oz",
       "calories": "33",
       "total_fat": "1.9g",
       "total_carbohydrates": "3.3g",
-      "protein": "1.9g"
+      "cholesterol": "0mg",
+      "sugar": "1.3g",
+      "fiber": "1.4g",
+      "protein": "1.9g",
+      "ingredients": "Local Chinese Broccoli, Local Baby Bok Choy, Canola Oil, Sesame Oil, Light Soy Sauce (LEE KUM KEE: Water, Salt, Soybeans, Sugar, Wheat Flour, Less than 2% of Caramel Color [Corn], Lactic Acid, Sodium Benzoate , Disodium 5' - Inosinate and Disodium 5' - Guanylate. SUB (KIKKOMAN): Water, Soybeans, Wheat, Salt, Lactic Acid, Sodium Benzoate), Garlic Cloves, Kosher Salt, Granulated Sugar",
+      "allergens": "Gluten, Soy, Corn  , Sesame , Wheat"
     },
     {
-      "name": "Vegetable Fried Rice0.00",
+      "name": "Vegetable Fried Rice",
       "serving_size": "4 OZ",
       "calories": "100",
       "total_fat": "3.1g",
       "total_carbohydrates": "15.4g",
-      "protein": "2.9g"
+      "cholesterol": "19.7mg",
+      "sugar": "1.2g",
+      "fiber": "1.1g",
+      "protein": "2.9g",
+      "ingredients": "Fresh Local Mushrooms , Jasmine Rice (JASMINE RICE: Long Grain Rice, Iron Phosphate, Niacin, Thiamine Mononitrate, and Folic Acid. GREEK BELLA RICE: 100% Greek Long Grain Parboiled Rice. ASIANPRIDE: White Jasmine Rice. CONTIGO:Thai Jasmine), Local Cabbage, Fresh Green Peppers, Local Bean Sprouts, Local Yellow Onions, Cage Free Eggs, Fresh Local Carrots, Basmati Rice (Asian Pride: White Long Grain Rice. Sub (West Creek): Long Grain Parboiled Rice, Iron Phosphate, Niacin, Thiamin Mononitrate, and Folic Acid. Sub (Himalayan): Basmati Rice Sub (Delta): Long Grain Parboiled Rice, Iron Phosphate, Niacin, Thiamine Mononitrate, and Folic Acid), Canola Oil, Light Soy Sauce (LEE KUM KEE: Water, Salt, Soybeans, Sugar, Wheat Flour, Less than 2% of Caramel Color [Corn], Lactic Acid, Sodium Benzoate , Disodium 5' - Inosinate and Disodium 5' - Guanylate. SUB (KIKKOMAN): Water, Soybeans, Wheat, Salt, Lactic Acid, Sodium Benzoate), Kosher Salt, Fresh Parsley, Ground Black Pepper",
+      "allergens": "Eggs, Gluten, Soy, Corn  , Wheat"
     },
     {
-      "name": "Vegetable Spring Rolls0.00",
+      "name": "Vegetable Spring Rolls",
       "serving_size": "2 EACH",
       "calories": "158",
       "total_fat": "15.3g",
       "total_carbohydrates": "5.6g",
-      "protein": "1.1g"
+      "cholesterol": "0mg",
+      "sugar": "0g",
+      "fiber": "0g",
+      "protein": "1.1g",
+      "ingredients": "Vegetarian Spring Roll (GREAT WALL:  FILLING: Cabbage, Onion, Carrots, Garlic Powder, White Pepper, Salt, Sugar, Sesame Oil. WRAPPER:  Flour, Water  RED DRAGON BRAND:  Water, Wheat Flour, Water Chestnuts, Bean Vermicelli, Celery, Black Fungus, Carrot, Soy Sauce [Water, Soybean, Salt, Wheat Flour], Spices, Ginger, Sugar, Garlic, Sesame Oil, Scallion, Disodium Inosinate, Disodium Guanylate), Deep Frying Canola Oil   (Canola Oil, TBHQ and Citric Acid, Dimethylpolysiloxane.  Dairy, egg, soy, sesame, corn and/or wheat products may be fried in this oil)",
+      "allergens": "Milk, Eggs, Gluten, Soy, Corn  , Sesame , Wheat"
     },
     {
-      "name": "Baked Ziti0.00",
+      "name": "Baked Ziti",
       "serving_size": "4 OZ",
       "calories": "168",
       "total_fat": "5.2g",
       "total_carbohydrates": "25.5g",
-      "protein": "6.7g"
+      "cholesterol": "8.4mg",
+      "sugar": "4.4g",
+      "fiber": "1.3g",
+      "protein": "6.7g",
+      "ingredients": "Marinara Sauce (Chopped Tomatoes, Olive Oil, Carrot, Sugar, Onion, Garlic, Basil, Mediterranean Sea Salt), Ziti (Durum Wheat Semolina, Vitamins. May Contain Soy), Shredded Mozzarella Cheese   (Bacio: Whole Milk Cheese [Low Moisture Mozzarella Cheese (Cultured Pasteurized Milk, Skim Milk, Salt, and Microbial Enzymes), Buffalo Skim Milk, Powdered Cellulose, Natamycin]), Ricotta Cheese (Pasteurized Whole Milk, Vinegar, Salt, and Locust Bean Gum, Xanthan Gum, Guar Gum (stabilizers)), Fresh Parsley",
+      "allergens": "Milk, Gluten, Corn  , Wheat"
     },
     {
-      "name": "Marinara Sauce0.00",
+      "name": "Marinara Sauce",
       "serving_size": "2 OZL",
       "calories": "31",
       "total_fat": "1.8g",
       "total_carbohydrates": "3.6g",
-      "protein": "1g"
+      "cholesterol": "0mg",
+      "sugar": "2.6g",
+      "fiber": "1g",
+      "protein": "1g",
+      "ingredients": "Marinara Sauce (Chopped Tomatoes, Olive Oil, Carrot, Sugar, Onion, Garlic, Basil, Mediterranean Sea Salt)",
+      "allergens": ""
     },
     {
-      "name": "Spaghetti0.00",
+      "name": "Spaghetti",
       "serving_size": "4 OZ",
       "calories": "148",
       "total_fat": "0.8g",
       "total_carbohydrates": "31.2g",
-      "protein": "6.2g"
+      "cholesterol": "0mg",
+      "sugar": "0.8g",
+      "fiber": "1.6g",
+      "protein": "6.2g",
+      "ingredients": "Thin Spaghetti (100% Whole Durum Wheat Semolina. May Contain Soy.), Kosher Salt",
+      "allergens": "Gluten, Wheat"
     },
     {
-      "name": "Whole Grain Penne0.00",
+      "name": "Whole Grain Penne",
       "serving_size": "4 OZ",
       "calories": "212",
       "total_fat": "1.1g",
       "total_carbohydrates": "31.3g",
-      "protein": "8.9g"
+      "cholesterol": "0mg",
+      "sugar": "1.1g",
+      "fiber": "4.5g",
+      "protein": "8.9g",
+      "ingredients": "Whole Grain Penne Pasta (100% Whole Durum Wheat Semolina. May Contain Soy), Kosher Salt",
+      "allergens": "Gluten, Wheat"
     },
     {
-      "name": "American Cheese0.00",
+      "name": "American Cheese",
       "serving_size": "1/2 OZ",
       "calories": "60",
       "total_fat": "4.5g",
       "total_carbohydrates": "0.7g",
-      "protein": "2.2g"
+      "cholesterol": "14.9mg",
+      "sugar": "0.7g",
+      "fiber": "0g",
+      "protein": "2.2g",
+      "ingredients": "American Cheese (Milk, Cream, Sodium Citrate, Salt, Cheese Culture, Sorbic Acid, Enzymes, Citric Acid, Soy Lecithin)",
+      "allergens": "Milk, Soy"
     },
     {
-      "name": "Deli Beef0.00",
+      "name": "Deli Beef",
       "serving_size": "2 OZ",
       "calories": "61",
       "total_fat": "2g",
       "total_carbohydrates": "0g",
-      "protein": "11.1g"
+      "cholesterol": "30.4mg",
+      "sugar": "0g",
+      "fiber": "0g",
+      "protein": "11.1g",
+      "ingredients": "HORMEL Deli Roast Beef (Roast Beef, Caramel Color, Water, Salt, Sodium Phosphates, Sugar, Flavoring)",
+      "allergens": "Corn"
     },
     {
-      "name": "Egg Salad0.00",
+      "name": "Egg Salad",
       "serving_size": "2 OZ",
       "calories": "182",
       "total_fat": "15.1g",
       "total_carbohydrates": "1.2g",
-      "protein": "10.8g"
+      "cholesterol": "301.1mg",
+      "sugar": "0.2g",
+      "fiber": "0.3g",
+      "protein": "10.8g",
+      "ingredients": "Cage Free Eggs, Fresh Celery, Mayonnaise (WEST CREEK: Soybean Oil, Water, Corn Syrup, Egg Yolk, Distilled and Cider Vinegar, Salt, Spice, Calcium Disodium EDTA. SUB CAINS: Soybean Oil, Distilled Vinegar, Egg Yolk, High Fructose Corn Syrup, Contains Less Than 2% Of: Salt, Mustard Seed, Mustard Bran, Calcium Disodium, EDTA), Kosher Salt, Ground Black Pepper",
+      "allergens": "Eggs, Soy, Corn"
     },
     {
-      "name": "Homemade Mid Eastern Hummus0.00",
+      "name": "Homemade Mid Eastern Hummus",
       "serving_size": "2 oz",
       "calories": "111",
       "total_fat": "4.9g",
       "total_carbohydrates": "12.9g",
-      "protein": "4.4g"
+      "cholesterol": "0mg",
+      "sugar": "2.4g",
+      "fiber": "2.3g",
+      "protein": "4.4g",
+      "ingredients": "Low Sodium Garbanzo Beans / Chickpeas (BUSH'S:  Prepared Chickpeas [Garbanzo], Water, Salt, Calcium Chloride and Disodium EDTA; FURMANOS: Organic Chick Peas, Water, Sea Salt), Lemon Juice (Lemons), Extra Virgin Olive Oil, Sesame Tahini (Sesame Seeds), Garlic Cloves, Kosher Salt",
+      "allergens": "Sesame"
     },
     {
-      "name": "Provolone Cheese0.00",
+      "name": "Provolone Cheese",
       "serving_size": "1/2 OZ",
       "calories": "51",
       "total_fat": "3.5g",
       "total_carbohydrates": "0.5g",
-      "protein": "3.5g"
+      "cholesterol": "10.1mg",
+      "sugar": "0g",
+      "fiber": "0g",
+      "protein": "3.5g",
+      "ingredients": "Provolone Cheese (Unsmoked Provolone Cheese [Pasteurized Milk, Cheese Cultures, Salt, Enzymes)",
+      "allergens": "Milk"
     },
     {
-      "name": "Tuna Salad0.00",
+      "name": "Tuna Salad",
       "serving_size": "2 OZ",
       "calories": "139",
       "total_fat": "11.2g",
       "total_carbohydrates": "1.2g",
-      "protein": "8.1g"
+      "cholesterol": "10.3mg",
+      "sugar": "0.2g",
+      "fiber": "0.2g",
+      "protein": "8.1g",
+      "ingredients": "Tuna Fish (WILDPLNT: Albacore Tuna, Sea Salt), Fresh Celery, Mayonnaise (WEST CREEK: Soybean Oil, Water, Corn Syrup, Egg Yolk, Distilled and Cider Vinegar, Salt, Spice, Calcium Disodium EDTA. SUB CAINS: Soybean Oil, Distilled Vinegar, Egg Yolk, High Fructose Corn Syrup, Contains Less Than 2% Of: Salt, Mustard Seed, Mustard Bran, Calcium Disodium, EDTA), Celery Salt (Salt and Celery Seed), White Ground Pepper",
+      "allergens": "Eggs, Fish, Soy, Corn"
     },
     {
-      "name": "Turkey Breast0.00",
+      "name": "Turkey Breast",
       "serving_size": "2 OZ",
       "calories": "60",
       "total_fat": "1g",
       "total_carbohydrates": "0g",
-      "protein": "13g"
+      "cholesterol": "30.1mg",
+      "sugar": "0g",
+      "fiber": "0g",
+      "protein": "13g",
+      "ingredients": "Turkey Breast (THIN & TRIM: Turkey Breast, Turkey Broth, Salt, Dextrose, Sodium Phosphates, Browned in Vegetable Oil. HORMEL: Turkey Breast Meat, Water, Salt, Turbinado Sugar. JUST PERFECT: Turkey Breast, Turkey Broth, Contains Less Than 1.5% of Salt, Sugar, Sodium Phosphate and Dextrose. Coated with Dextrose, Salt, Honey Solids (Refined Syrup, Honey), Paprika, Spices, Onion, Natural Flavors, Extractives of Paprika and Turmeric)",
+      "allergens": "Corn"
     },
     {
-      "name": "Hard Boiled Eggs0.00",
+      "name": "Hard Boiled Eggs",
       "serving_size": "2 EACH",
       "calories": "111",
       "total_fat": "7.7g",
       "total_carbohydrates": "0g",
-      "protein": "10.7g"
+      "cholesterol": "297.7mg",
+      "sugar": "0g",
+      "fiber": "0g",
+      "protein": "10.7g",
+      "ingredients": "Cage Free Eggs",
+      "allergens": "Eggs"
     },
     {
-      "name": "Shoyu Ramen Bar (Pork, Chicken)0.00",
+      "name": "Shoyu Ramen Bar (Pork, Chicken)",
       "serving_size": "1 each",
       "calories": "437",
       "total_fat": "15.4g",
       "total_carbohydrates": "87.2g",
-      "protein": "16.2g"
+      "cholesterol": "5mg",
+      "sugar": "3.4g",
+      "fiber": "3.5g",
+      "protein": "16.2g",
+      "ingredients": "Water, Ramen Noodles    (KENJA BRAND:  Unbleached Enriched Wheat Flour (Wheat flour, (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate,  Riboflavin, Folic Acid), Unenriched Wheat Flour, Water, Contains 2% or less of: Wheat Gluten, Kansui (Sodium Carbonate, Potassium Carbonate), Salt, Riboflavin (for color),Corn Starch, Sago Starch.Manufactured in a facility that also use egg ingredients. SUN NOODLE:  Unbleached Enriched Wheat Flour [Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Water, Contains less than 2% of Salt, Wheat Gluten, Kansui [Dsodium Carbonate, Potassiium Carbonate],Dried Egg White Powder,Salt  Riboflavin, Cornstarch, Sago Starch), Fish Cake (Alaska Pollock (Fish), Water, Sugar, Modified Food Starch, Salt, Sorbitol, Sweet Rice Wine, Monosodium Glutamate, FD&C Red No.3, Carmine Color, Sodium Tripolyphosphate, Tetrasodium Pyrophosphate, Sodium Pyrophosphate, Manufactured on equipment that processes milk, fish, wheat, soy, egg, shellfish), Bok Choy, Ramen Soup Base (SHOYU: Soy Sauce (Water, Soybeans, Wheat, Salt), Salt, Water, Chicken Fat (Rendered Chicken Fat, Natural Flavoring), Salt, Sugar, MonoSodium Glutamate, Chicken Extract, Hydrolyzed Soy Protein, Caramel Color, Roasted Onion Extract Powder (Onion Extract, Maltodextrin, Sugar, Roasted Onion Oil), Disodium Inosinate, Disodium Guanylate, Ginger Powder, White Pepper, Garlic Powder, Xanthan Gum, Disodium Succinate, Mixed Tocopherols SUB (SUN NOODLE): Water, Soy Sauce (Water, Wheat, Soybeans, Salt), Salt, High Fructose Corn Syrup, Tangle Extract [Tangle Extract, Maltose Syrup, Salt, Sugar, Yeast Extract], Pork Stock [Pork Stock, Salt], Monosodium Glutamate, Bonito Extract [Bonito Extract, Molasses, Salt], Disodium Inosinate and Disodium Guanylate, Garlic Powder, Disodium Succinate, Sodium Benzoate), Scallions, Nori Seaweed (Roasted Seaweed)",
+      "allergens": "Milk, Eggs, Fish, Shellfish, Gluten, Soy, Corn  , Wheat"
     },
     {
-      "name": "Soy Braised Pork Belly0.00",
+      "name": "Soy Braised Pork Belly",
       "serving_size": "2 oz",
       "calories": "162",
       "total_fat": "14.4g",
       "total_carbohydrates": "1.8g",
-      "protein": "3g"
+      "cholesterol": "19.6mg",
+      "sugar": "1.3g",
+      "fiber": "0g",
+      "protein": "3g",
+      "ingredients": "Pork Belly (Pork SUB A: (ALLEGNCE): Pork. SUB B (PACKER)), Japanese Sake (Rice, Water, Alcohol from traditional cake fermentation method using yeast), Water, Light Soy Sauce (LEE KUM KEE: Water, Salt, Soybeans, Sugar, Wheat Flour, Less than 2% of Caramel Color [Corn], Lactic Acid, Sodium Benzoate , Disodium 5' - Inosinate and Disodium 5' - Guanylate. SUB (KIKKOMAN): Water, Soybeans, Wheat, Salt, Lactic Acid, Sodium Benzoate), Mirin Rice Wine (Glucose Syrup, Water, Alcohol, Rice, Corn Syrup, Salt)",
+      "allergens": "Gluten, Soy, Corn  , Wheat"
     },
     {
-      "name": "Tantanmen Ramen Broth0.00",
+      "name": "Tantanmen Ramen Broth",
       "serving_size": "5 oz",
       "calories": "33",
       "total_fat": "2.7g",
       "total_carbohydrates": "1.3g",
-      "protein": "1g"
+      "cholesterol": "0mg",
+      "sugar": "1g",
+      "fiber": "0.3g",
+      "protein": "1g",
+      "ingredients": "Water, Ramen Soup Broth (Sesame Seed Paste, Soy Sauce (Water, Soybeans, Wheat, Salt, Sodium Benzoate), Sugar, Chili Oil (Soybean Oil, Dried Chili Peppers), Salt, Water, Soybean Paste (Water, Soybeans, Rice, Salt), Sesame Seed Oil, Monosodium Glutamate, Canola Oil, Salted Mirin (Sake (Water, Rice Koji), High Fructose Corn Syrup, Sugar, Salt, Water, Yeast Extract), Chili Bean Sauce (Salted Chili Peppers (Chili Peppers, Salt), Water, Fermented Soybean Paste (Water, Salt, Soybeans, Wheat Flour), Fermented Broad Bean Paste (Broad Beans, Water, Salt, Wheat Flour), Sugar, Modified Corn Starch, Chili Pepper Powder, Dehydrated Garlic, Soybean Oil, Lactic Acid, Disodium Inosinate, Disodium Guanylate), Gochujang (Water, Sugar, Red Chili Peppers Powder, Fermented Soybean Paste (Water, Soybeans, Rice, Salt, Alcohol), Pear Puree Concentrate, Salt, Salted Sake (Sake (Water, Rice, Koji), Salt), Onion Powder, Garlic Powder, Yeast Extract, Rice Vinegar, Sesame Oil, Paprika Powder, Corn Starch), Savory Umami Seasoning (Hydrolyzed Soy Protein, Monosodium Glutamate, Sugar, Salt, Disodium Inosinate, Disodium Guanylate, Yeast Extract, Calcium Silicate, Canola Oil), Distilled Vinegar, Garlic Puree, Chili Pepper, Sodium Alginate, Paprika Oleoresin Color, Yeast Extract, Disodium Inosinate, Disodium Guanylate, Black Pepper)",
+      "allergens": "Gluten, Soy, Corn  , Sesame , Wheat"
     },
     {
-      "name": "Cheese Pizza0.00",
+      "name": "Cheese Pizza",
       "serving_size": "1 SLICE",
       "calories": "204",
       "total_fat": "5.4g",
       "total_carbohydrates": "29.6g",
-      "protein": "8.3g"
+      "cholesterol": "14.7mg",
+      "sugar": "1g",
+      "fiber": "1.3g",
+      "protein": "8.3g",
+      "ingredients": "Pizza Dough (IT'LL BE DOUGH:  Organic All Purpose Unbleached White Flour (White Flour Milled From Organic Wheat, Unbleached Flour, Malted Barley, Niacin, Iron, Thiamine Mono Nitrate, Riboflavin, Folic Acid), Filtered Water, Organic Whole Wheat Bread Flour, Sea Salt, Sugar, Extra Virgin Olive Oil, Baker's Yeast (Saccharomyces Cerevisiae, Ascorbic Acid,Sorbitan Monostearate) SUB (ULTIMO):  Enriched Flour [Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid, Water, Contains 2% or less of: Yeast, Salt, Sugar, Calcium Sulfate, Ascorbic Acid.  May contain soy), Shredded Mozzarella Cheese   (Bacio: Whole Milk Cheese [Low Moisture Mozzarella Cheese (Cultured Pasteurized Milk, Skim Milk, Salt, and Microbial Enzymes), Buffalo Skim Milk, Powdered Cellulose, Natamycin]), Pizza Sauce Mutti (FULL RED: Tomatoes, Mediterranean Sea Salt MUTTI:Tomatoes, Mediterranean Sea Salt ), All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour [May Contain Corn], Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid. Sub (Roma): Bleached Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Semolina Flour (GOLD MEDAL: Semolina (Milled from Durum Wheat), Niacin, Ferrous Sulfate, Thiamin Mononitrate, Riboflavin, Folic Acid SUB A (KING MIDAS): Semolina (Wheat), Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid)",
+      "allergens": "Milk, Gluten, Soy, Corn  , Wheat"
     },
     {
-      "name": "Pepperoni Pizza0.00",
+      "name": "Pepperoni Pizza",
       "serving_size": "1 SLICE",
       "calories": "217",
       "total_fat": "7g",
       "total_carbohydrates": "29g",
-      "protein": "8.9g"
+      "cholesterol": "18.8mg",
+      "sugar": "0.5g",
+      "fiber": "1.2g",
+      "protein": "8.9g",
+      "ingredients": "Pizza Dough (IT'LL BE DOUGH:  Organic All Purpose Unbleached White Flour (White Flour Milled From Organic Wheat, Unbleached Flour, Malted Barley, Niacin, Iron, Thiamine Mono Nitrate, Riboflavin, Folic Acid), Filtered Water, Organic Whole Wheat Bread Flour, Sea Salt, Sugar, Extra Virgin Olive Oil, Baker's Yeast (Saccharomyces Cerevisiae, Ascorbic Acid,Sorbitan Monostearate) SUB (ULTIMO):  Enriched Flour [Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid, Water, Contains 2% or less of: Yeast, Salt, Sugar, Calcium Sulfate, Ascorbic Acid.  May contain soy), Shredded Mozzarella Cheese   (Bacio: Whole Milk Cheese [Low Moisture Mozzarella Cheese (Cultured Pasteurized Milk, Skim Milk, Salt, and Microbial Enzymes), Buffalo Skim Milk, Powdered Cellulose, Natamycin]), Pizza Sauce Mutti (FULL RED: Tomatoes, Mediterranean Sea Salt MUTTI:Tomatoes, Mediterranean Sea Salt ), Sliced Pepperoni (Pork, Beef, Salt, Contains 2% or Less of Water, Spice, Seasoning (Cane Sugar, Celery Juice Powder), Seasoning (Extractives of Paprika, Natural Spice Extractives), Lactic Acid Starter Culture), All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour [May Contain Corn], Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid. Sub (Roma): Bleached Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Semolina Flour (GOLD MEDAL: Semolina (Milled from Durum Wheat), Niacin, Ferrous Sulfate, Thiamin Mononitrate, Riboflavin, Folic Acid SUB A (KING MIDAS): Semolina (Wheat), Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid)",
+      "allergens": "Milk, Gluten, Soy, Corn  , Wheat"
     },
     {
-      "name": "Pancake Bar0.00",
+      "name": "Pancake Bar",
       "serving_size": "2 EACH",
       "calories": "377",
       "total_fat": "15.5g",
       "total_carbohydrates": "54.1g",
-      "protein": "6.9g"
+      "cholesterol": "25.7mg",
+      "sugar": "19.7g",
+      "fiber": "0.9g",
+      "protein": "6.9g",
+      "ingredients": "Buttermilk Pancakes (Water, Buttermilk Pancake Mix (GOLD MEDAL:  Enriched Flour Bleached (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Degermed Yellow Cornmeal, Dextrose [Corn], Modified Whey [Milk], Sugar, Soybean Oil, Leavening (Baking Soda, Sodium Aluminum Phosphate), Defatted Soy Flour, Palm Oil, Buttermilk, Salt, Egg Yolk with Sodium Silicoaluminate, Soy Lecithin, Potassium Chloride, Citric Acid, Annatto and Turmeric Extract Color. SUB(PEARL MILLING): Enriched Bleached Flour (Bleached Wheat Flour, Niacinamide, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar Leavening (Baking Soda, Sodium Aluminum Phosphate, Monocalcium Phosphate), Dextrose, Buttermilk Powder, Palm Oil, Salt, Wheat Gluten, Corn Syrup Solids, Sodium Caseinate, Mono and Diglycerides, Dipotassium Phosphate, Lactic Acid, Tocopherols SUB (HEARTLAND): Enriched Flour (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Sugar, Soy Flour, Yellow Corn Meal, Salt, Palm Oil, Leavening (Baking Soda, Sodium Aluminum Phosphate, Monocalcium Phosphate), Dextrose, Egg White, Dried Corn Syrup, Mono and Diglycerides, Sodium Caseinate, Natural and Artificial flavors, Malted Barley Extract, Acesulfame Potassium, Soy Lecithin ), Pan Spray (Canola Oil, Caprylic/Capric Triglycerides, Phosphated Mono and Diglycerides [Corn], Silicon Dioxide, Calcium Stearate, Propellant. SUB A (Vegalene): Canola Oil, Canola Lecithin, Mono and Diglycerides, Natural Flavor, and Propellant)), Local Unsalted Butter (Cream (Milk), Natural Flavoring), Fresh Bananas, Fresh Blueberries, Snicker Topping   (Milk Chocolate (Sugar, Cocoa Butter, Chocolate, Skim Milk, Lactose, Milk Fat, Soy Lecithin), Peanuts, Corn Syrup, Sugar, Palm Oil, Skim Milk, Lactose, Salt, Egg Whites, Artificial Flavor\n), Oreo Cookie Crumbs (Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid), Sugar, Palm and/or Canola Oil, Cocoa (Processed with Alkali), Invert Sugar (Corn), Leavening (Baking Soda and /or Calcium Phosphate), Soy Lecithin, Salt, Chocolate, Natural Flavor), Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Vanillin, Artificial Flavor, Milk). SUB (HERITAGE OVEN): Sugar, Chocolate Liquor, Cocoa Butter, Milk Fat, Soy Lecithin, and Vanilla Flavor), Reeses Pieces Candy (Sugar, Partially Defatted Peanuts, Hydrogenated Vegetable Oil [Palm Kernel Oil, Soybean Oil], Corn Syrup Solids, Dextrose, Contains 2% Or Less Of: Palm Kernel Oil, Corn Syrup, Artificial Color [Yellow 6 Lake, Yellow 5 Lake, Red 40 Lake, Blue 1 Lake], Cornstarch, Salt, Confectioner's Glaze, Lecithin (Soy), Modified Cornstarch, Carnauba Wax, Vanillin, Artificial Flavor, Milk), M&M's (Milk Chocolate (Sugar, Chocolate, Skim Milk, Cocoa Butter, Lactose, Milkfat, Soy Lecithin, Salt, Artificial And Natural Flavors), Sugar, Cornstarch, Less Than 1% - Corn Syrup, Dextrin, Coloring (Includes Blue 1 Lake, Yellow 6, Red 40, Yellow 5, Blue 1, Yellow 6 Lake, Red 40 Lake, Yellow 5 Lake, Blue 2 Lake, Blue 2), Carnauba Wax, Gum Acacia (May Contain Peanuts)), Sliced Almonds (Blanched Almonds), Walnut Pieces (Walnuts), Dark Raisins (Natural Seedless Raisins), Dried Craisins (Cranberries, Sugar, Sunflower Oil)",
+      "allergens": "Milk, Eggs, Tree Nuts, Peanuts, Gluten, Soy, Corn  , Wheat"
     }
   ]
 }
