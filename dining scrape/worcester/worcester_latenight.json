@@ -1,0 +1,108 @@
+{
+  "latenight": [
+    {
+      "name": "Black Bean Burger0.00",
+      "serving_size": "1 each",
+      "calories": "160",
+      "total_fat": "7g",
+      "total_carbohydrates": "20g",
+      "protein": "6g"
+    },
+    {
+      "name": "Grilled Chicken Breast0.00",
+      "serving_size": "3 oz",
+      "calories": "93",
+      "total_fat": "2.7g",
+      "total_carbohydrates": "0.1g",
+      "protein": "16.8g"
+    },
+    {
+      "name": "Halal Burger Patty0.00",
+      "serving_size": "1 each",
+      "calories": "192",
+      "total_fat": "13.6g",
+      "total_carbohydrates": "0g",
+      "protein": "16.8g"
+    },
+    {
+      "name": "Halal French Fries0.00",
+      "serving_size": "3 OZ",
+      "calories": "202",
+      "total_fat": "13.6g",
+      "total_carbohydrates": "17.7g",
+      "protein": "1.8g"
+    },
+    {
+      "name": "Roasted Zucchini0.00",
+      "serving_size": "2 1/2 OZ",
+      "calories": "21",
+      "total_fat": "1.2g",
+      "total_carbohydrates": "2.2g",
+      "protein": "0.9g"
+    },
+    {
+      "name": "OATLY Chocolate Soft Serve0.00",
+      "serving_size": "4 oz",
+      "calories": "204",
+      "total_fat": "7.9g",
+      "total_carbohydrates": "31.8g",
+      "protein": "2.3g"
+    },
+    {
+      "name": "OATLY Vanilla Soft Serve0.00",
+      "serving_size": "4 oz",
+      "calories": "215",
+      "total_fat": "9.1g",
+      "total_carbohydrates": "31.8g",
+      "protein": "1.1g"
+    },
+    {
+      "name": "Cheese Pizza0.00",
+      "serving_size": "1 SLICE",
+      "calories": "204",
+      "total_fat": "5.4g",
+      "total_carbohydrates": "29.6g",
+      "protein": "8.3g"
+    },
+    {
+      "name": "Pepperoni Pizza0.00",
+      "serving_size": "1 SLICE",
+      "calories": "217",
+      "total_fat": "7g",
+      "total_carbohydrates": "29g",
+      "protein": "8.9g"
+    },
+    {
+      "name": "French Ham & Cheese Croissant0.00",
+      "serving_size": "1 EACH",
+      "calories": "391",
+      "total_fat": "22.5g",
+      "total_carbohydrates": "30.8g",
+      "protein": "13.2g"
+    },
+    {
+      "name": "Fried Eggs0.00",
+      "serving_size": "1 EACH",
+      "calories": "73",
+      "total_fat": "5.8g",
+      "total_carbohydrates": "0g",
+      "protein": "5.4g"
+    },
+    {
+      "name": "Plant Based Spinach Pie0.00",
+      "serving_size": "1 3/4 oz",
+      "calories": "133",
+      "total_fat": "6.5g",
+      "total_carbohydrates": "13g",
+      "protein": "2.7g"
+    },
+    {
+      "name": "Skillet Hash Browns0.00",
+      "serving_size": "3 OZ",
+      "calories": "77",
+      "total_fat": "1.2g",
+      "total_carbohydrates": "15.1g",
+      "protein": "0.1g"
+    }
+  ]
+}

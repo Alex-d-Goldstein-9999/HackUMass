@@ -1,0 +1,108 @@
+{
+  "latenight": [
+    {
+      "name": "Chicken Taco Filling0.00",
+      "serving_size": "1 oz",
+      "calories": "50",
+      "total_fat": "3.1g",
+      "total_carbohydrates": "0.9g",
+      "protein": "4.7g"
+    },
+    {
+      "name": "Corn and Red Peppers0.00",
+      "serving_size": "4 oz",
+      "calories": "30",
+      "total_fat": "1.1g",
+      "total_carbohydrates": "4.8g",
+      "protein": "0.5g"
+    },
+    {
+      "name": "Flour Tortilla0.00",
+      "serving_size": "1 each",
+      "calories": "90",
+      "total_fat": "2g",
+      "total_carbohydrates": "16g",
+      "protein": "2g"
+    },
+    {
+      "name": "Halal Beef Taco Meat0.00",
+      "serving_size": "2 OZ",
+      "calories": "81",
+      "total_fat": "4.6g",
+      "total_carbohydrates": "1.7g",
+      "protein": "7.5g"
+    },
+    {
+      "name": "Latin Toppings0.00",
+      "serving_size": "3 oz",
+      "calories": "124",
+      "total_fat": "9.7g",
+      "total_carbohydrates": "2.8g",
+      "protein": "5.7g"
+    },
+    {
+      "name": "Mexican Rice0.00",
+      "serving_size": "3 oz",
+      "calories": "86",
+      "total_fat": "0g",
+      "total_carbohydrates": "18.1g",
+      "protein": "1.7g"
+    },
+    {
+      "name": "Pinto Beans0.00",
+      "serving_size": "3 OZ",
+      "calories": "86",
+      "total_fat": "1.6g",
+      "total_carbohydrates": "14g",
+      "protein": "4g"
+    },
+    {
+      "name": "Taco Shells0.00",
+      "serving_size": "2 EACH",
+      "calories": "99",
+      "total_fat": "4.6g",
+      "total_carbohydrates": "13.3g",
+      "protein": "1.3g"
+    },
+    {
+      "name": "Cheese Pizza0.00",
+      "serving_size": "1 SLICE",
+      "calories": "204",
+      "total_fat": "5.4g",
+      "total_carbohydrates": "29.6g",
+      "protein": "8.3g"
+    },
+    {
+      "name": "Pepperoni Pizza0.00",
+      "serving_size": "1 SLICE",
+      "calories": "217",
+      "total_fat": "7g",
+      "total_carbohydrates": "29g",
+      "protein": "8.9g"
+    },
+    {
+      "name": "Vegetable Pizza0.00",
+      "serving_size": "1 SLICE",
+      "calories": "203",
+      "total_fat": "5.5g",
+      "total_carbohydrates": "29.5g",
+      "protein": "8.4g"
+    },
+    {
+      "name": "Mozzarella Sticks0.00",
+      "serving_size": "2 EACH",
+      "calories": "530",
+      "total_fat": "28.7g",
+      "total_carbohydrates": "43.1g",
+      "protein": "21.5g"
+    },
+    {
+      "name": "Plant Based Meatball Grinder0.00",
+      "serving_size": "1 EACH",
+      "calories": "454",
+      "total_fat": "17.8g",
+      "total_carbohydrates": "53.3g",
+      "protein": "23.5g"
+    }
+  ]
+}

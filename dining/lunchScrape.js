@@ -164,7 +164,7 @@ const fs = require('fs');
 
     // Store data in a JSON file
     const jsonContent = JSON.stringify(data, null, 2);
-    fs.writeFileSync(`${hall}/${hall}_lunch.json`, jsonContent);
+    fs.writeFileSync(`../${hall}/${hall}_lunch.json`, jsonContent);
 
     console.log('Data extracted and stored in output.json');
 })();
