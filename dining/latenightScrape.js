@@ -129,15 +129,27 @@ const fs = require('fs');
                 const calories = element ? element.getAttribute('data-calories') : '';
                 const total_fat = element ? element.getAttribute('data-total-fat') : '';
                 const total_carbohydrates = element ? element.getAttribute('data-total-carb') : '';
+                const cholesterol = element ? element.getAttribute('data-cholesterol') : '';
+                const sugar = element ? element.getAttribute('data-sugars') : '';
+                const fiber = element ? element.getAttribute('data-dietary-fiber') : '';
                 const protein = element ? element.getAttribute('data-protein') : '';
+                const ingredients = element ? element.getAttribute('data-ingredient-list') : '';
+                const allergens = element ? element.getAttribute('data-allergens') : '';
+                const diet = element ? element.getAttribute('data-clean-diet-str') : '';
 
                 return {
-                    name: foodElement.textContent.trim(),
+                    name: foodElement.textContent.trim().replace(/0\.00$/, ''),
                     serving_size: servingSize.trim(),
                     calories: calories.trim(),
                     total_fat: total_fat.trim(),
                     total_carbohydrates: total_carbohydrates.trim(),
+                    cholesterol: cholesterol.trim(),
+                    sugar: sugar.trim(),
+                    fiber: fiber.trim(),
                     protein: protein.trim(),
+                    ingredients: ingredients.trim(),
+                    allergens: allergens.trim(),
+                    diet: diet.trim(),
                 };
             });
 
