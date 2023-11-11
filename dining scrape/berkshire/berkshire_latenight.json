@@ -1,7 +1,7 @@
 {
   "latenight": [
     {
-      "name": "Chicken Taco Filling0.00",
+      "name": "Chicken Taco Filling$0.00",
       "serving_size": "1 oz",
       "calories": "50",
       "total_fat": "3.1g",
@@ -9,7 +9,7 @@
       "protein": "4.7g"
     },
     {
-      "name": "Corn and Red Peppers0.00",
+      "name": "Corn and Red Peppers$0.00",
       "serving_size": "4 oz",
       "calories": "30",
       "total_fat": "1.1g",
@@ -17,7 +17,7 @@
       "protein": "0.5g"
     },
     {
-      "name": "Flour Tortilla0.00",
+      "name": "Flour Tortilla$0.00",
       "serving_size": "1 each",
       "calories": "90",
       "total_fat": "2g",
@@ -25,7 +25,7 @@
       "protein": "2g"
     },
     {
-      "name": "Halal Beef Taco Meat0.00",
+      "name": "Halal Beef Taco Meat$0.00",
       "serving_size": "2 OZ",
       "calories": "81",
       "total_fat": "4.6g",
@@ -33,7 +33,7 @@
       "protein": "7.5g"
     },
     {
-      "name": "Latin Toppings0.00",
+      "name": "Latin Toppings$0.00",
       "serving_size": "3 oz",
       "calories": "124",
       "total_fat": "9.7g",
@@ -41,7 +41,7 @@
       "protein": "5.7g"
     },
     {
-      "name": "Mexican Rice0.00",
+      "name": "Mexican Rice$0.00",
       "serving_size": "3 oz",
       "calories": "86",
       "total_fat": "0g",
@@ -49,7 +49,7 @@
       "protein": "1.7g"
     },
     {
-      "name": "Pinto Beans0.00",
+      "name": "Pinto Beans$0.00",
       "serving_size": "3 OZ",
       "calories": "86",
       "total_fat": "1.6g",
@@ -57,7 +57,7 @@
       "protein": "4g"
     },
     {
-      "name": "Taco Shells0.00",
+      "name": "Taco Shells$0.00",
       "serving_size": "2 EACH",
       "calories": "99",
       "total_fat": "4.6g",
@@ -65,7 +65,7 @@
       "protein": "1.3g"
     },
     {
-      "name": "Cheese Pizza0.00",
+      "name": "Cheese Pizza$0.00",
       "serving_size": "1 SLICE",
       "calories": "204",
       "total_fat": "5.4g",
@@ -73,7 +73,7 @@
       "protein": "8.3g"
     },
     {
-      "name": "Pepperoni Pizza0.00",
+      "name": "Pepperoni Pizza$0.00",
       "serving_size": "1 SLICE",
       "calories": "217",
       "total_fat": "7g",
@@ -81,7 +81,7 @@
       "protein": "8.9g"
     },
     {
-      "name": "Vegetable Pizza0.00",
+      "name": "Vegetable Pizza$0.00",
       "serving_size": "1 SLICE",
       "calories": "203",
       "total_fat": "5.5g",
@@ -89,7 +89,7 @@
       "protein": "8.4g"
     },
     {
-      "name": "Mozzarella Sticks0.00",
+      "name": "Mozzarella Sticks$0.00",
       "serving_size": "2 EACH",
       "calories": "530",
       "total_fat": "28.7g",
@@ -97,7 +97,7 @@
       "protein": "21.5g"
     },
     {
-      "name": "Plant Based Meatball Grinder0.00",
+      "name": "Plant Based Meatball Grinder$0.00",
       "serving_size": "1 EACH",
       "calories": "454",
       "total_fat": "17.8g",

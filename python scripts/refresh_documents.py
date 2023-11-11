@@ -18,7 +18,7 @@ collection = db[collection_hall]
 meals = ["breakfast", "lunch", "dinner", "grabngo", "latenight"]
 
 for meal in meals:
-    process = subprocess.Popen(['/usr/local/bin/node', '../dining scrape (using cmdline args)/%sScrape.js' % (meal), hall], stdout=subprocess.PIPE)
+    process = subprocess.Popen(['/usr/local/bin/node', '../dining/%sScrape.js' % (meal), hall], stdout=subprocess.PIPE)
     document = process.stdout.read()
 
 

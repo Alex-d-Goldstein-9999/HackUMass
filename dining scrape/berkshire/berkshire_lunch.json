@@ -1,7 +1,7 @@
 {
   "lunch": [
     {
-      "name": "Baked Eggs w/Black Beans & Cheddar Cheese0.00",
+      "name": "Baked Eggs w/Black Beans & Cheddar Cheese$0.00",
       "serving_size": "1 each",
       "calories": "143",
       "total_fat": "9.2g",
@@ -9,7 +9,7 @@
       "protein": "9.5g"
     },
     {
-      "name": "French Toast Sticks0.00",
+      "name": "French Toast Sticks$0.00",
       "serving_size": "3 each",
       "calories": "260",
       "total_fat": "8g",
@@ -17,7 +17,7 @@
       "protein": "6g"
     },
     {
-      "name": "Hard Boiled Eggs0.00",
+      "name": "Hard Boiled Eggs$0.00",
       "serving_size": "2 EACH",
       "calories": "111",
       "total_fat": "7.7g",
@@ -25,7 +25,7 @@
       "protein": "10.7g"
     },
     {
-      "name": "Hot Oatmeal0.00",
+      "name": "Hot Oatmeal$0.00",
       "serving_size": "4 OZL",
       "calories": "91",
       "total_fat": "1.6g",
@@ -33,7 +33,7 @@
       "protein": "3.2g"
     },
     {
-      "name": "O'Brien Potatoes0.00",
+      "name": "O'Brien Potatoes$0.00",
       "serving_size": "3 OZ",
       "calories": "72",
       "total_fat": "2.2g",
@@ -41,7 +41,7 @@
       "protein": "1.5g"
     },
     {
-      "name": "Omelet Bar0.00",
+      "name": "Omelet Bar$0.00",
       "serving_size": "5 oz",
       "calories": "304",
       "total_fat": "22.7g",
@@ -49,7 +49,7 @@
       "protein": "21.2g"
     },
     {
-      "name": "Pork Sausage Links0.00",
+      "name": "Pork Sausage Links$0.00",
       "serving_size": "2 each",
       "calories": "172",
       "total_fat": "16.2g",
@@ -57,7 +57,7 @@
       "protein": "7.1g"
     },
     {
-      "name": "Pulmuone Tofu Scramble0.00",
+      "name": "Pulmuone Tofu Scramble$0.00",
       "serving_size": "4 OZ",
       "calories": "131",
       "total_fat": "7.9g",
@@ -65,7 +65,7 @@
       "protein": "13g"
     },
     {
-      "name": "Rstd Tomato, Bean & Mushroom Breakfast0.00",
+      "name": "Rstd Tomato, Bean & Mushroom Breakfast$0.00",
       "serving_size": "8 OZ",
       "calories": "218",
       "total_fat": "12.9g",
@@ -73,7 +73,7 @@
       "protein": "5.8g"
     },
     {
-      "name": "Scrambled Eggs0.00",
+      "name": "Scrambled Eggs$0.00",
       "serving_size": "3 OZ",
       "calories": "110",
       "total_fat": "7.6g",
@@ -81,7 +81,7 @@
       "protein": "10.6g"
     },
     {
-      "name": "Apple Cider Donut Bundt0.00",
+      "name": "Apple Cider Donut Bundt$0.00",
       "serving_size": "1 slice",
       "calories": "203",
       "total_fat": "7.7g",
@@ -89,7 +89,7 @@
       "protein": "3.2g"
     },
     {
-      "name": "Mini Raspberry Danish0.00",
+      "name": "Mini Raspberry Danish$0.00",
       "serving_size": "1 EACH",
       "calories": "121",
       "total_fat": "6g",
@@ -97,7 +97,7 @@
       "protein": "2g"
     },
     {
-      "name": "Pumpkin Maple Latte Muffin Top0.00",
+      "name": "Pumpkin Maple Latte Muffin Top$0.00",
       "serving_size": "1 EACH",
       "calories": "229",
       "total_fat": "11.7g",
@@ -105,7 +105,7 @@
       "protein": "2.9g"
     },
     {
-      "name": "Chicken Noodle Soup0.00",
+      "name": "Chicken Noodle Soup$0.00",
       "serving_size": "5 oz",
       "calories": "63",
       "total_fat": "1.6g",
@@ -113,7 +113,7 @@
       "protein": "4.4g"
     },
     {
-      "name": "French Fries0.00",
+      "name": "French Fries$0.00",
       "serving_size": "3 OZ",
       "calories": "193",
       "total_fat": "13.2g",
@@ -121,7 +121,7 @@
       "protein": "1.8g"
     },
     {
-      "name": "Grilled Chicken Breast0.00",
+      "name": "Grilled Chicken Breast$0.00",
       "serving_size": "1 oz",
       "calories": "31",
       "total_fat": "0.9g",
@@ -129,7 +129,7 @@
       "protein": "5.6g"
     },
     {
-      "name": "Halal Burger Patty0.00",
+      "name": "Halal Burger Patty$0.00",
       "serving_size": "1 each",
       "calories": "192",
       "total_fat": "13.6g",
@@ -137,7 +137,7 @@
       "protein": "16.8g"
     },
     {
-      "name": "Kelp Burger0.00",
+      "name": "Kelp Burger$0.00",
       "serving_size": "1 each",
       "calories": "200",
       "total_fat": "12g",
@@ -145,7 +145,7 @@
       "protein": "11g"
     },
     {
-      "name": "Sweet Potato Fries0.00",
+      "name": "Sweet Potato Fries$0.00",
       "serving_size": "3 OZ",
       "calories": "204",
       "total_fat": "14.7g",
@@ -153,7 +153,7 @@
       "protein": "0.9g"
     },
     {
-      "name": "Hunan Pork0.00",
+      "name": "Hunan Pork$0.00",
       "serving_size": "4 oz",
       "calories": "116",
       "total_fat": "4.5g",
@@ -161,7 +161,7 @@
       "protein": "12.4g"
     },
     {
-      "name": "Jasmine Rice0.00",
+      "name": "Jasmine Rice$0.00",
       "serving_size": "3 OZ",
       "calories": "92",
       "total_fat": "0g",
@@ -169,7 +169,7 @@
       "protein": "1.7g"
     },
     {
-      "name": "Spicy Tofu & Vegetable Stir Fry0.00",
+      "name": "Spicy Tofu & Vegetable Stir Fry$0.00",
       "serving_size": "4 oz",
       "calories": "111",
       "total_fat": "5.9g",
@@ -177,7 +177,7 @@
       "protein": "7.7g"
     },
     {
-      "name": "Stir Fry Green Vegetables0.00",
+      "name": "Stir Fry Green Vegetables$0.00",
       "serving_size": "3 oz",
       "calories": "33",
       "total_fat": "1.9g",
@@ -185,7 +185,7 @@
       "protein": "1.9g"
     },
     {
-      "name": "Vegetable Fried Rice0.00",
+      "name": "Vegetable Fried Rice$0.00",
       "serving_size": "4 OZ",
       "calories": "100",
       "total_fat": "3.1g",
@@ -193,7 +193,7 @@
       "protein": "2.9g"
     },
     {
-      "name": "Vegetable Spring Rolls0.00",
+      "name": "Vegetable Spring Rolls$0.00",
       "serving_size": "2 EACH",
       "calories": "158",
       "total_fat": "15.3g",
@@ -201,7 +201,7 @@
       "protein": "1.1g"
     },
     {
-      "name": "Baked Ziti0.00",
+      "name": "Baked Ziti$0.00",
       "serving_size": "4 OZ",
       "calories": "168",
       "total_fat": "5.2g",
@@ -209,7 +209,7 @@
       "protein": "6.7g"
     },
     {
-      "name": "Marinara Sauce0.00",
+      "name": "Marinara Sauce$0.00",
       "serving_size": "2 OZL",
       "calories": "31",
       "total_fat": "1.8g",
@@ -217,7 +217,7 @@
       "protein": "1g"
     },
     {
-      "name": "Spaghetti0.00",
+      "name": "Spaghetti$0.00",
       "serving_size": "4 OZ",
       "calories": "148",
       "total_fat": "0.8g",
@@ -225,7 +225,7 @@
       "protein": "6.2g"
     },
     {
-      "name": "Whole Grain Penne0.00",
+      "name": "Whole Grain Penne$0.00",
       "serving_size": "4 OZ",
       "calories": "212",
       "total_fat": "1.1g",
@@ -233,7 +233,7 @@
       "protein": "8.9g"
     },
     {
-      "name": "American Cheese0.00",
+      "name": "American Cheese$0.00",
       "serving_size": "1/2 OZ",
       "calories": "60",
       "total_fat": "4.5g",
@@ -241,7 +241,7 @@
       "protein": "2.2g"
     },
     {
-      "name": "Deli Beef0.00",
+      "name": "Deli Beef$0.00",
       "serving_size": "2 OZ",
       "calories": "61",
       "total_fat": "2g",
@@ -249,7 +249,7 @@
       "protein": "11.1g"
     },
     {
-      "name": "Egg Salad0.00",
+      "name": "Egg Salad$0.00",
       "serving_size": "2 OZ",
       "calories": "182",
       "total_fat": "15.1g",
@@ -257,7 +257,7 @@
       "protein": "10.8g"
     },
     {
-      "name": "Homemade Mid Eastern Hummus0.00",
+      "name": "Homemade Mid Eastern Hummus$0.00",
       "serving_size": "2 oz",
       "calories": "111",
       "total_fat": "4.9g",
@@ -265,7 +265,7 @@
       "protein": "4.4g"
     },
     {
-      "name": "Provolone Cheese0.00",
+      "name": "Provolone Cheese$0.00",
       "serving_size": "1/2 OZ",
       "calories": "51",
       "total_fat": "3.5g",
@@ -273,7 +273,7 @@
       "protein": "3.5g"
     },
     {
-      "name": "Tuna Salad0.00",
+      "name": "Tuna Salad$0.00",
       "serving_size": "2 OZ",
       "calories": "139",
       "total_fat": "11.2g",
@@ -281,7 +281,7 @@
       "protein": "8.1g"
     },
     {
-      "name": "Turkey Breast0.00",
+      "name": "Turkey Breast$0.00",
       "serving_size": "2 OZ",
       "calories": "60",
       "total_fat": "1g",
@@ -289,7 +289,7 @@
       "protein": "13g"
     },
     {
-      "name": "Hard Boiled Eggs0.00",
+      "name": "Hard Boiled Eggs$0.00",
       "serving_size": "2 EACH",
       "calories": "111",
       "total_fat": "7.7g",
@@ -297,7 +297,7 @@
       "protein": "10.7g"
     },
     {
-      "name": "Shoyu Ramen Bar (Pork, Chicken)0.00",
+      "name": "Shoyu Ramen Bar (Pork, Chicken)$0.00",
       "serving_size": "1 each",
       "calories": "437",
       "total_fat": "15.4g",
@@ -305,7 +305,7 @@
       "protein": "16.2g"
     },
     {
-      "name": "Soy Braised Pork Belly0.00",
+      "name": "Soy Braised Pork Belly$0.00",
       "serving_size": "2 oz",
       "calories": "162",
       "total_fat": "14.4g",
@@ -313,7 +313,7 @@
       "protein": "3g"
     },
     {
-      "name": "Tantanmen Ramen Broth0.00",
+      "name": "Tantanmen Ramen Broth$0.00",
       "serving_size": "5 oz",
       "calories": "33",
       "total_fat": "2.7g",
@@ -321,7 +321,7 @@
       "protein": "1g"
     },
     {
-      "name": "Cheese Pizza0.00",
+      "name": "Cheese Pizza$0.00",
       "serving_size": "1 SLICE",
       "calories": "204",
       "total_fat": "5.4g",
@@ -329,7 +329,7 @@
       "protein": "8.3g"
     },
     {
-      "name": "Pepperoni Pizza0.00",
+      "name": "Pepperoni Pizza$0.00",
       "serving_size": "1 SLICE",
       "calories": "217",
       "total_fat": "7g",
@@ -337,7 +337,7 @@
       "protein": "8.9g"
     },
     {
-      "name": "Pancake Bar0.00",
+      "name": "Pancake Bar$0.00",
       "serving_size": "2 EACH",
       "calories": "377",
       "total_fat": "15.5g",

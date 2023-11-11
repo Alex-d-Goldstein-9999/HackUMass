@@ -1,7 +1,7 @@
 {
   "dinner": [
     {
-      "name": "Chicken Noodle Soup0.00",
+      "name": "Chicken Noodle Soup$0.00",
       "serving_size": "5 oz",
       "calories": "63",
       "total_fat": "1.6g",
@@ -9,7 +9,7 @@
       "protein": "4.4g"
     },
     {
-      "name": "African Chicken & Peanut Stew0.00",
+      "name": "African Chicken & Peanut Stew$0.00",
       "serving_size": "4 oz",
       "calories": "127",
       "total_fat": "5.4g",
@@ -17,7 +17,7 @@
       "protein": "15.9g"
     },
     {
-      "name": "Spiced Cauliflower & Chickpeas0.00",
+      "name": "Spiced Cauliflower & Chickpeas$0.00",
       "serving_size": "3 oz",
       "calories": "65",
       "total_fat": "2.1g",
@@ -25,7 +25,7 @@
       "protein": "3.2g"
     },
     {
-      "name": "Jollof (West African Tomato Rice)0.00",
+      "name": "Jollof (West African Tomato Rice)$0.00",
       "serving_size": "4 OZ",
       "calories": "99",
       "total_fat": "1.7g",
@@ -33,7 +33,7 @@
       "protein": "1.7g"
     },
     {
-      "name": "Local Roasted Sweet Potatoes0.00",
+      "name": "Local Roasted Sweet Potatoes$0.00",
       "serving_size": "4 oz",
       "calories": "163",
       "total_fat": "7.7g",
@@ -41,7 +41,7 @@
       "protein": "1.7g"
     },
     {
-      "name": "Ethiopian Collard Greens0.00",
+      "name": "Ethiopian Collard Greens$0.00",
       "serving_size": "3 oz",
       "calories": "50",
       "total_fat": "2.7g",
@@ -49,7 +49,7 @@
       "protein": "2.3g"
     },
     {
-      "name": "Honey Glazed Carrots0.00",
+      "name": "Honey Glazed Carrots$0.00",
       "serving_size": "3 OZ",
       "calories": "41",
       "total_fat": "0g",
@@ -57,7 +57,7 @@
       "protein": "1.1g"
     },
     {
-      "name": "French Fries0.00",
+      "name": "French Fries$0.00",
       "serving_size": "3 OZ",
       "calories": "193",
       "total_fat": "13.2g",
@@ -65,7 +65,7 @@
       "protein": "1.8g"
     },
     {
-      "name": "Grilled Chicken Breast0.00",
+      "name": "Grilled Chicken Breast$0.00",
       "serving_size": "3 oz",
       "calories": "93",
       "total_fat": "2.7g",
@@ -73,7 +73,7 @@
       "protein": "16.8g"
     },
     {
-      "name": "Grilled Chicken Thighs0.00",
+      "name": "Grilled Chicken Thighs$0.00",
       "serving_size": "1 each",
       "calories": "94",
       "total_fat": "3.8g",
@@ -81,7 +81,7 @@
       "protein": "14g"
     },
     {
-      "name": "Halal Burger Patty0.00",
+      "name": "Halal Burger Patty$0.00",
       "serving_size": "1 each",
       "calories": "192",
       "total_fat": "13.6g",
@@ -89,7 +89,7 @@
       "protein": "16.8g"
     },
     {
-      "name": "Kelp Burger0.00",
+      "name": "Kelp Burger$0.00",
       "serving_size": "1 each",
       "calories": "200",
       "total_fat": "12g",
@@ -97,7 +97,7 @@
       "protein": "11g"
     },
     {
-      "name": "Roasted Maple Carrots0.00",
+      "name": "Roasted Maple Carrots$0.00",
       "serving_size": "3 OZ",
       "calories": "56",
       "total_fat": "1.2g",
@@ -105,7 +105,7 @@
       "protein": "1.3g"
     },
     {
-      "name": "Roasted Zucchini0.00",
+      "name": "Roasted Zucchini$0.00",
       "serving_size": "2 1/2 OZ",
       "calories": "21",
       "total_fat": "1.2g",
@@ -113,7 +113,7 @@
       "protein": "0.9g"
     },
     {
-      "name": "Sweet Potato Fries0.00",
+      "name": "Sweet Potato Fries$0.00",
       "serving_size": "3 OZ",
       "calories": "204",
       "total_fat": "14.7g",
@@ -121,7 +121,7 @@
       "protein": "0.9g"
     },
     {
-      "name": "Baked General Tso's Pulmuone Tofu0.00",
+      "name": "Baked General Tso's Pulmuone Tofu$0.00",
       "serving_size": "3 oz",
       "calories": "121",
       "total_fat": "4.8g",
@@ -129,7 +129,7 @@
       "protein": "9.1g"
     },
     {
-      "name": "Jasmine Rice0.00",
+      "name": "Jasmine Rice$0.00",
       "serving_size": "3 OZ",
       "calories": "92",
       "total_fat": "0g",
@@ -137,7 +137,7 @@
       "protein": "1.7g"
     },
     {
-      "name": "Miso Glazed Sweet Potato w/Sesame0.00",
+      "name": "Miso Glazed Sweet Potato w/Sesame$0.00",
       "serving_size": "3 oz",
       "calories": "100",
       "total_fat": "2.7g",
@@ -145,7 +145,7 @@
       "protein": "1.6g"
     },
     {
-      "name": "Roasted Sesame Broccoli0.00",
+      "name": "Roasted Sesame Broccoli$0.00",
       "serving_size": "3 oz",
       "calories": "41",
       "total_fat": "2.3g",
@@ -153,7 +153,7 @@
       "protein": "2.8g"
     },
     {
-      "name": "Marinara Sauce0.00",
+      "name": "Marinara Sauce$0.00",
       "serving_size": "2 OZL",
       "calories": "31",
       "total_fat": "1.8g",
@@ -161,7 +161,7 @@
       "protein": "1g"
     },
     {
-      "name": "Mesclun Greens w/Almonds and Blueberry-Basil Vinaigrette0.00",
+      "name": "Mesclun Greens w/Almonds and Blueberry-Basil Vinaigrette$0.00",
       "serving_size": "2 OZ",
       "calories": "87",
       "total_fat": "7.5g",
@@ -169,7 +169,7 @@
       "protein": "2.3g"
     },
     {
-      "name": "Spaghetti0.00",
+      "name": "Spaghetti$0.00",
       "serving_size": "4 OZ",
       "calories": "148",
       "total_fat": "0.8g",
@@ -177,7 +177,7 @@
       "protein": "6.2g"
     },
     {
-      "name": "Vegetable Lasagna0.00",
+      "name": "Vegetable Lasagna$0.00",
       "serving_size": "4 OZ",
       "calories": "150",
       "total_fat": "5.5g",
@@ -185,7 +185,7 @@
       "protein": "6.5g"
     },
     {
-      "name": "Whole Grain Penne0.00",
+      "name": "Whole Grain Penne$0.00",
       "serving_size": "4 OZ",
       "calories": "212",
       "total_fat": "1.1g",
@@ -193,7 +193,7 @@
       "protein": "8.9g"
     },
     {
-      "name": "Chocolate Cake w/Donut Sugar0.00",
+      "name": "Chocolate Cake w/Donut Sugar$0.00",
       "serving_size": "1 Piece",
       "calories": "125",
       "total_fat": "4.4g",
@@ -201,7 +201,7 @@
       "protein": "1.3g"
     },
     {
-      "name": "Kalamansi Pie0.00",
+      "name": "Kalamansi Pie$0.00",
       "serving_size": "2 1/2 Slice",
       "calories": "557",
       "total_fat": "20.7g",
@@ -209,7 +209,7 @@
       "protein": "10.6g"
     },
     {
-      "name": "Classic Ciabatta Bread0.00",
+      "name": "Classic Ciabatta Bread$0.00",
       "serving_size": "1 oz",
       "calories": "65",
       "total_fat": "0g",
@@ -217,7 +217,7 @@
       "protein": "2g"
     },
     {
-      "name": "Rice Soup (Pork or Pulmuone Tofu) w/Nasoya Wrapper0.00",
+      "name": "Rice Soup (Pork or Pulmuone Tofu) w/Nasoya Wrapper$0.00",
       "serving_size": "8 OZ",
       "calories": "272",
       "total_fat": "9.9g",
@@ -225,7 +225,7 @@
       "protein": "11.3g"
     },
     {
-      "name": "Cheese Pizza0.00",
+      "name": "Cheese Pizza$0.00",
       "serving_size": "1 SLICE",
       "calories": "204",
       "total_fat": "5.4g",
@@ -233,7 +233,7 @@
       "protein": "8.3g"
     },
     {
-      "name": "Pepperoni Pizza0.00",
+      "name": "Pepperoni Pizza$0.00",
       "serving_size": "1 SLICE",
       "calories": "217",
       "total_fat": "7g",
@@ -241,7 +241,7 @@
       "protein": "8.9g"
     },
     {
-      "name": "Vegetable Pizza0.00",
+      "name": "Vegetable Pizza$0.00",
       "serving_size": "1 SLICE",
       "calories": "203",
       "total_fat": "5.5g",
@@ -249,7 +249,7 @@
       "protein": "8.4g"
     },
     {
-      "name": "Shrimp Sushi Roll0.00",
+      "name": "Shrimp Sushi Roll$0.00",
       "serving_size": "1 roll",
       "calories": "224",
       "total_fat": "1.7g",
@@ -257,7 +257,7 @@
       "protein": "7.5g"
     },
     {
-      "name": "Spicy Tuna Roll0.00",
+      "name": "Spicy Tuna Roll$0.00",
       "serving_size": "1 Roll",
       "calories": "321",
       "total_fat": "10.1g",
@@ -265,7 +265,7 @@
       "protein": "11.5g"
     },
     {
-      "name": "Teriyaki Pulmuone Tofu Roll0.00",
+      "name": "Teriyaki Pulmuone Tofu Roll$0.00",
       "serving_size": "1 roll",
       "calories": "249",
       "total_fat": "3.7g",
@@ -273,7 +273,7 @@
       "protein": "8g"
     },
     {
-      "name": "Vegetable Sushi Roll0.00",
+      "name": "Vegetable Sushi Roll$0.00",
       "serving_size": "1 roll",
       "calories": "204",
       "total_fat": "1.4g",
@@ -281,7 +281,7 @@
       "protein": "3.6g"
     },
     {
-      "name": "Black Beans0.00",
+      "name": "Black Beans$0.00",
       "serving_size": "2 OZ",
       "calories": "48",
       "total_fat": "1g",
@@ -289,7 +289,7 @@
       "protein": "2.2g"
     },
     {
-      "name": "Filling for Beef Tacos0.00",
+      "name": "Filling for Beef Tacos$0.00",
       "serving_size": "2 OZ",
       "calories": "91",
       "total_fat": "6.3g",
@@ -297,7 +297,7 @@
       "protein": "5.7g"
     },
     {
-      "name": "Homemade Guacamole0.00",
+      "name": "Homemade Guacamole$0.00",
       "serving_size": "1 OZ",
       "calories": "17",
       "total_fat": "1.1g",
@@ -305,7 +305,7 @@
       "protein": "0.1g"
     },
     {
-      "name": "Latin Toppings0.00",
+      "name": "Latin Toppings$0.00",
       "serving_size": "3 oz",
       "calories": "124",
       "total_fat": "9.7g",
@@ -313,7 +313,7 @@
       "protein": "5.7g"
     },
     {
-      "name": "Yellow Rice0.00",
+      "name": "Yellow Rice$0.00",
       "serving_size": "3 oz",
       "calories": "111",
       "total_fat": "2.7g",
@@ -321,7 +321,7 @@
       "protein": "1.7g"
     },
     {
-      "name": "Yuca Fries0.00",
+      "name": "Yuca Fries$0.00",
       "serving_size": "3 OZ",
       "calories": "214",
       "total_fat": "13.5g",
@@ -329,7 +329,7 @@
       "protein": "0.5g"
     },
     {
-      "name": "Jasmine Rice0.00",
+      "name": "Jasmine Rice$0.00",
       "serving_size": "3 OZ",
       "calories": "92",
       "total_fat": "0g",
@@ -337,7 +337,7 @@
       "protein": "1.7g"
     },
     {
-      "name": "Mandarin Chicken w/Cashews0.00",
+      "name": "Mandarin Chicken w/Cashews$0.00",
       "serving_size": "4 OZ",
       "calories": "166",
       "total_fat": "9.5g",
@@ -345,7 +345,7 @@
       "protein": "8.4g"
     },
     {
-      "name": "Scallion Ginger Tofu0.00",
+      "name": "Scallion Ginger Tofu$0.00",
       "serving_size": "4 oz",
       "calories": "161",
       "total_fat": "10.7g",
@@ -353,7 +353,7 @@
       "protein": "11g"
     },
     {
-      "name": "Stir Fried Vegetables0.00",
+      "name": "Stir Fried Vegetables$0.00",
       "serving_size": "3 OZ",
       "calories": "32",
       "total_fat": "2.5g",
@@ -361,7 +361,7 @@
       "protein": "1.5g"
     },
     {
-      "name": "Vegetable Lo Mein0.00",
+      "name": "Vegetable Lo Mein$0.00",
       "serving_size": "3 oz",
       "calories": "96",
       "total_fat": "1.6g",

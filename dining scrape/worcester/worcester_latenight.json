@@ -1,7 +1,7 @@
 {
   "latenight": [
     {
-      "name": "Black Bean Burger0.00",
+      "name": "Black Bean Burger$0.00",
       "serving_size": "1 each",
       "calories": "160",
       "total_fat": "7g",
@@ -9,7 +9,7 @@
       "protein": "6g"
     },
     {
-      "name": "Grilled Chicken Breast0.00",
+      "name": "Grilled Chicken Breast$0.00",
       "serving_size": "3 oz",
       "calories": "93",
       "total_fat": "2.7g",
@@ -17,7 +17,7 @@
       "protein": "16.8g"
     },
     {
-      "name": "Halal Burger Patty0.00",
+      "name": "Halal Burger Patty$0.00",
       "serving_size": "1 each",
       "calories": "192",
       "total_fat": "13.6g",
@@ -25,7 +25,7 @@
       "protein": "16.8g"
     },
     {
-      "name": "Halal French Fries0.00",
+      "name": "Halal French Fries$0.00",
       "serving_size": "3 OZ",
       "calories": "202",
       "total_fat": "13.6g",
@@ -33,7 +33,7 @@
       "protein": "1.8g"
     },
     {
-      "name": "Roasted Zucchini0.00",
+      "name": "Roasted Zucchini$0.00",
       "serving_size": "2 1/2 OZ",
       "calories": "21",
       "total_fat": "1.2g",
@@ -41,7 +41,7 @@
       "protein": "0.9g"
     },
     {
-      "name": "OATLY Chocolate Soft Serve0.00",
+      "name": "OATLY Chocolate Soft Serve$0.00",
       "serving_size": "4 oz",
       "calories": "204",
       "total_fat": "7.9g",
@@ -49,7 +49,7 @@
       "protein": "2.3g"
     },
     {
-      "name": "OATLY Vanilla Soft Serve0.00",
+      "name": "OATLY Vanilla Soft Serve$0.00",
       "serving_size": "4 oz",
       "calories": "215",
       "total_fat": "9.1g",
@@ -57,7 +57,7 @@
       "protein": "1.1g"
     },
     {
-      "name": "Cheese Pizza0.00",
+      "name": "Cheese Pizza$0.00",
       "serving_size": "1 SLICE",
       "calories": "204",
       "total_fat": "5.4g",
@@ -65,7 +65,7 @@
       "protein": "8.3g"
     },
     {
-      "name": "Pepperoni Pizza0.00",
+      "name": "Pepperoni Pizza$0.00",
       "serving_size": "1 SLICE",
       "calories": "217",
       "total_fat": "7g",
@@ -73,7 +73,7 @@
       "protein": "8.9g"
     },
     {
-      "name": "French Ham & Cheese Croissant0.00",
+      "name": "French Ham & Cheese Croissant$0.00",
       "serving_size": "1 EACH",
       "calories": "391",
       "total_fat": "22.5g",
@@ -81,7 +81,7 @@
       "protein": "13.2g"
     },
     {
-      "name": "Fried Eggs0.00",
+      "name": "Fried Eggs$0.00",
       "serving_size": "1 EACH",
       "calories": "73",
       "total_fat": "5.8g",
@@ -89,7 +89,7 @@
       "protein": "5.4g"
     },
     {
-      "name": "Plant Based Spinach Pie0.00",
+      "name": "Plant Based Spinach Pie$0.00",
       "serving_size": "1 3/4 oz",
       "calories": "133",
       "total_fat": "6.5g",
@@ -97,7 +97,7 @@
       "protein": "2.7g"
     },
     {
-      "name": "Skillet Hash Browns0.00",
+      "name": "Skillet Hash Browns$0.00",
       "serving_size": "3 OZ",
       "calories": "77",
       "total_fat": "1.2g",
