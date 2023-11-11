@@ -1,11 +1,8 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-
-
 (async () => {
-
-    const hall = process.argv[2]
+    const hall = process.argv[2];
     // Launch the browser
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
@@ -18,6 +15,7 @@ const fs = require('fs');
     const data = await page.evaluate(() => {
         const allData = {};
 
+        /*
         // Extract data for breakfast if the breakfast div is present
         const breakfastDiv = document.querySelector('.breakfast_fp');
         if (breakfastDiv) {
@@ -69,6 +67,7 @@ const fs = require('fs');
             allData.lunch = lunchData;
         }
 
+        */
         // Extract data for dinner if the dinner div is present
         const dinnerDiv = document.querySelector('.dinner_fp');
         if (dinnerDiv) {
@@ -93,8 +92,8 @@ const fs = require('fs');
 
             allData.dinner = dinnerData;
         }
-        
-       */
+
+        /*
         // Extract data for grabngo if the grabngo div is present
         const grabngoDiv = document.querySelector('.grabngo');
         if (grabngoDiv) {
@@ -120,7 +119,6 @@ const fs = require('fs');
             allData.grabngo = grabngoData;
         }
 
-        /*
         // Extract data for late night if the latenight div is present
         const latenightDiv = document.querySelector('.latenight_fp');
         if (latenightDiv) {
@@ -155,7 +153,7 @@ const fs = require('fs');
 
     // Store data in a JSON file
     const jsonContent = JSON.stringify(data, null, 2);
-    fs.writeFileSync(`../dining scrape/${hall}/${hall}_grabngo.json`, jsonContent);
+    fs.writeFileSync(`../dining scrape/${hall}/${hall}_dinner.json`, jsonContent);
 
     console.log('Data extracted and stored in output.json');
 })();
