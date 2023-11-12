@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="goals.css" />
+        <title>Nutrition Calculator</title>
+    </head>
+    <body>
+        <div class="calculator-container">
+            <h1>Nutrition Calculator</h1>
+
+            <div class="maintenance-calories">
+                <h2>Maintenance Calories</h2>
+                <p>This is a basic calculation. Adjustments may be needed based on individual factors.</p>
+                <p id="maintenance-calories-result"></p>
+            </div>
+
+            <div class="goals">
+                <h2>Set Your Goals</h2>
+
+                <div class="goal">
+                    <label for="calories">Calories:</label>
+                    <input type="range" id="calories" min="1000" max="5000" step="100" value="2000" />
+                    <span id="calories-value">2000</span> kcal
+                </div>
+
+                <div class="goal">
+                    <label for="sodium">Sodium:</label>
+                    <input type="range" id="sodium" min="0" max="5000" step="100" value="2000" />
+                    <span id="sodium-value">2000</span> mg
+                </div>
+
+                <div class="goal">
+                    <label for="fat">Fat:</label>
+                    <input type="range" id="fat" min="0" max="200" step="5" value="50" />
+                    <span id="fat-value">50</span> g
+                </div>
+
+                <div class="goal">
+                    <label for="protein">Protein:</label>
+                    <input type="range" id="protein" min="0" max="200" step="5" value="75" />
+                    <span id="protein-value">75</span> g
+                </div>
+            </div>
+        </div>
+
+        <script src="goals.js"></script>
+    </body>
+</html>
