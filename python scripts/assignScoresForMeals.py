@@ -3,9 +3,9 @@ from pymongo.server_api import ServerApi
 import certifi
 import sys
 import re
-import firebase_admin
-from firebase_admin import credentials
-from firebase_admin import firestore
+import json
+# from firebase_admin import credentials
+# from firebase_admin import firestore
 
 regexStipLetters = re.compile(r'[^\d.]+')
 
@@ -19,8 +19,8 @@ def makeNum(expr):
     except ValueError:
         return 0
 
-cred = credentials.Certificate("./unutrition-d9755-firebase-adminsdk-cbryz-71439ab5f4.json")
-default_app = firebase_admin.initialize_app(cred)
+# cred = credentials.Certificate("./unutrition-d9755-firebase-adminsdk-cbryz-71439ab5f4.json")
+# default_app = firebase_admin.initialize_app(cred)
 
 
 meal = sys.argv[1]
@@ -29,7 +29,9 @@ hall = sys.argv[2]
 ca = certifi.where()
 cluster0 = pymongo.MongoClient("mongodb+srv://Alex:AlexIsCool123@cluster0.wg76som.mongodb.net/?retryWrites=true&w=majority", tlsCAFile=ca, server_api=ServerApi('1'))
 db = cluster0[hall]
+dbToUpload = cluster0[hall + "-scores"]
 collection = db[meal]
+collectionToUpload = dbToUpload[meal + "-scores"]
 
 foods = collection.find({})
 
@@ -56,6 +58,7 @@ dailyRecommendedValues = {"calories":2000.0, "fat":75.0, "carbohydrates":275.0, 
 
 
 for m in foods:
+
     
     #determine how good the serving is for calories
     recommendedServingCalories = dailyRecommendedValues['calories'] / 9.0
@@ -110,30 +113,24 @@ for m in foods:
 
 
     object = {
-        name : [
-            {"calorie score" : calorieScore},
-            {"fat score" : fatScore},
-            {"carbohydrate score" : carbScore},
-            {"cholesterol score" : cholesterolScore},
-            {"sodium score" : sodiumScore},
-            {"sugar score" : sugarScore},
-            {"fiber score" : fiberScore},
-            {"protein score" : proteinScore} 
-        ],
-        "calories" : servingCalories,
-        "fat" : servingFat,
-        "carbs" : servingCarbohydrates,
-        "cholesterol" : servingCholesterol,
-        "sodium" : servingSodium,
-        "sugar" : servingSugar,
-        "fiber" : servingFiber,
-        "protein" : servingProtein
+        "name" : name,
+        "calorie score" : calorieScore,
+        "fat score" : fatScore,
+        "carbohydrate score" : carbScore,
+        "cholesterol score" : cholesterolScore,
+        "sodium score" : sodiumScore,
+        "sugar score" : sugarScore,
+        "fiber score" : fiberScore,
+        "protein score" : proteinScore
     }
 
-    #jsonObject = json.dumps(object, indent=4)
+    jsonObject = json.dumps(object, indent=4)
 
-    db = firestore.client()
-    db.collection("%s_%s" % (hall, meal)).document(name.replace("/", "_")).set(object)
+    result = collectionToUpload.insert_one(object)
+    print(result)
+
+    # db = firestore.client()
+    # db.collection("%s_%s" % (hall, meal)).document(name.replace("/", "_")).set(object)
     
 
 
