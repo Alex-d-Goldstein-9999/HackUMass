@@ -1,13 +1,18 @@
 import pymongo
+import firebase_admin
 from pymongo.server_api import ServerApi
 import certifi
 import sys
 import re
 import json
-
+import firebase_admin
+from firebase_admin import credentials
 
 regexStipLetters = re.compile(r'[^\d.]+')
 makeNum = lambda expr : float(regexStipLetters.sub('', expr))
+
+cred = credentials.Certificate("./unutrition-d9755-firebase-adminsdk-cbryz-71439ab5f4.json")
+default_app = firebase_admin.initialize_app(cred)
 
 
 meal = sys.argv[1]
@@ -20,9 +25,6 @@ db = cluster0[hall]
 collection = db[meal]
 
 foods = collection.find({})
-
-m = foods[0]
-
 
 #indexes for keys
 # 1: name 
@@ -95,7 +97,7 @@ for m in foods:
     
 
     name = m['name']
-    print(name)
+
 
     object = {
         name : [
@@ -107,11 +109,26 @@ for m in foods:
             {"sugar score" : sugarScore},
             {"fiber score" : fiberScore},
             {"protein score" : proteinScore} 
-        ]
+        ],
+        "calories" : servingCalories,
+        "fat" : servingFat,
+        "carbs" : servingCarbohydrates,
+        "cholesterol" : servingCholesterol,
+        "sodium" : servingSodium,
+        "sugar" : servingSugar,
+        "fiber" : servingFiber,
+        "protein" : servingProtein
     }
 
-    jsonObject = json.dumps(object, indent=4)
-    print(jsonObject)
+    with open("./Users/ag/Documents/GitHub/HackUMass/python scripts/food scores test/%s-%s.json" % (meal, hall), "w") as outfile: 
+        json.dump(object, outfile)
+
+    
+
+
+
+
+
 
 
 
