@@ -166,7 +166,7 @@ const fs = require('fs');
 
     // Store data in a JSON file
     const jsonContent = JSON.stringify(data, null, 2);
-    fs.writeFileSync(`../dining scrape/${hall}/${hall}_latenight.json`, jsonContent);
+    fs.writeFileSync(`../Scrape data/${hall}/${hall}_latenight.json`, jsonContent);
 
     console.log('Data extracted and stored in output.json');
 })();

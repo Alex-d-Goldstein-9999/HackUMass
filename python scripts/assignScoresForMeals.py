@@ -1,5 +1,4 @@
 import pymongo
-import firebase_admin
 from pymongo.server_api import ServerApi
 import certifi
 import sys
