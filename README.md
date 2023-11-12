@@ -9,5 +9,7 @@ Welcome to our contribution to HackUmass XII! On this page is all of the work we
 It's easy to be paralized by choice with how much food is available on campus, so why not set your preferences and goals and let our app narrow down what you might like to eat!
 
 
-#### works?
+#### Installation
+The source code stored on this page isn't meant to be used client-side, instead check out the [ios app](https://github.com/natepl/hackUMassApp) to see our project in action.  
+
 
