@@ -11,13 +11,12 @@ from firebase_admin import credentials
 regexStipLetters = re.compile(r'[^\d.]+')
 makeNum = lambda expr : float(regexStipLetters.sub('', expr))
 
-cred = credentials.Certificate("./unutrition-d9755-firebase-adminsdk-cbryz-71439ab5f4.json")
-default_app = firebase_admin.initialize_app(cred)
+# cred = credentials.Certificate("./unutrition-d9755-firebase-adminsdk-cbryz-71439ab5f4.json")
+# default_app = firebase_admin.initialize_app(cred)
 
 
 meal = sys.argv[1]
 hall = sys.argv[2]
-
 
 ca = certifi.where()
 cluster0 = pymongo.MongoClient("mongodb+srv://Alex:AlexIsCool123@cluster0.wg76som.mongodb.net/?retryWrites=true&w=majority", tlsCAFile=ca, server_api=ServerApi('1'))
@@ -120,9 +119,8 @@ for m in foods:
         "protein" : servingProtein
     }
 
-    with open("./Users/ag/Documents/GitHub/HackUMass/python scripts/food scores test/%s-%s.json" % (meal, hall), "w") as outfile: 
-        json.dump(object, outfile)
 
+        
     
 
 
