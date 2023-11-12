@@ -1,5 +1,7 @@
 #!
 
+cd ../python\ scripts/
+
 python3 assignScoresForMeals.py breakfast worcester 75
 python3 assignScoresForMeals.py lunch worcester 75
 python3 assignScoresForMeals.py dinner worcester 75
