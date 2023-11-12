@@ -1,4 +1,4 @@
 # UNutrition App Backend
 
-> This project makes up the 
-# Check out the main IOS app [HERE](https://github.com/natepl/hackUMassApp).
+> This project enables the automatic webscraping of UMass Dining services, the storage of the resultant data with MongoDB.
+## Check out the main IOS app [HERE](https://github.com/natepl/hackUMassApp).
