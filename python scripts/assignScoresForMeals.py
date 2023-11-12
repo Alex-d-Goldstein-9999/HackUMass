@@ -4,15 +4,24 @@ from pymongo.server_api import ServerApi
 import certifi
 import sys
 import re
-import json
 import firebase_admin
 from firebase_admin import credentials
+from firebase_admin import firestore
 
 regexStipLetters = re.compile(r'[^\d.]+')
-makeNum = lambda expr : float(regexStipLetters.sub('', expr))
 
-# cred = credentials.Certificate("./unutrition-d9755-firebase-adminsdk-cbryz-71439ab5f4.json")
-# default_app = firebase_admin.initialize_app(cred)
+
+def makeNum(expr):
+    try:
+        if "mg" in expr:
+            num = float(regexStipLetters.sub('', expr)) 
+            return num * 0.001
+        return float(regexStipLetters.sub('', expr)) 
+    except ValueError:
+        return 0
+
+cred = credentials.Certificate("./unutrition-d9755-firebase-adminsdk-cbryz-71439ab5f4.json")
+default_app = firebase_admin.initialize_app(cred)
 
 
 meal = sys.argv[1]
@@ -24,6 +33,8 @@ db = cluster0[hall]
 collection = db[meal]
 
 foods = collection.find({})
+
+
 
 #indexes for keys
 # 1: name 
@@ -42,6 +53,7 @@ bodyweight = float(sys.argv[3]) * 2.20462
 
 #grams
 dailyRecommendedValues = {"calories":2000.0, "fat":75.0, "carbohydrates":275.0, "sugar":30.0, "Fiber":30.0, "Cholesterol":0.3, "sodium":2.3, "protein":(0.75 * bodyweight)}
+
 
 
 for m in foods:
@@ -118,6 +130,15 @@ for m in foods:
         "fiber" : servingFiber,
         "protein" : servingProtein
     }
+
+    #jsonObject = json.dumps(object, indent=4)
+
+    db = firestore.client()
+    db.collection("%s_%s" % (hall, meal)).document(name.replace("/", "_")).set(object)
+    
+
+
+
 
 
         
