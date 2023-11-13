@@ -61,7 +61,7 @@ for index in range(prefs):
     queryWord = wordAssociation[get_key([index + 1, True], keyWords)]
     boolean = (queryWord == "protein score" or queryWord == 'fiber score')
 
-    if (queryWord == "protein score" or queryWord == 'fiber score' or queryWord == 'calorie score'):
+    if (queryWord == 'calorie score' or queryWord == "carbohydrate score"):
         query[queryWord] =  {"$gt" : 0.75}
     else:
         query[queryWord] =  {"$lt" : 0.5}
@@ -70,11 +70,12 @@ for index in range(prefs):
 
 result = collection.find(query)
 suggested_foods = list(result)
-final_foods = []
 
+
+final_foods = []
 for food in suggested_foods:
     final_foods.append(food['name'])
-    
+
 print(final_foods)
 
 
