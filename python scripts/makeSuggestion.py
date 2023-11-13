@@ -51,17 +51,35 @@ cluster0 = pymongo.MongoClient("mongodb+srv://Alex:AlexIsCool123@cluster0.wg76so
 db = cluster0[hall + "-scores"]
 collection = db[meal + "-scores"]
 
-possible_foods = list(collection.find({}))
+#possible_foods = list(collection.find({}))
 
-suggested_foods = []
+
+query = {}
+
+#generate all possible foods
 for index in range(prefs):
     queryWord = wordAssociation[get_key([index + 1, True], keyWords)]
-    print(queryWord)
+    boolean = (queryWord == "protein score" or queryWord == 'fiber score')
 
-    suggested_foods.append(collection.find({queryWord : {"$lt" : 0.5}}))
+    if (queryWord == "protein score" or queryWord == 'fiber score' or queryWord == 'calorie score'):
+        query[queryWord] =  {"$gt" : 0.75}
+    else:
+        query[queryWord] =  {"$lt" : 0.5}
+
+    
+
+result = collection.find(query)
+suggested_foods = list(result)
+final_foods = []
+
+for food in suggested_foods:
+    final_foods.append(food['name'])
+    
+print(final_foods)
 
 
-print(suggested_foods)
+
+
 
 
 
